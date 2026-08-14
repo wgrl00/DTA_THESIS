@@ -1,0 +1,4423 @@
+{
+  "0": [
+    "Computer Vision and Pattern Recognition",
+    "Machine Learning (Statistics)"
+  ],
+  "1": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "2": [
+    "Artificial Intelligence",
+    "Data Structures and Algorithms"
+  ],
+  "3": [
+    "Combinatorics",
+    "Discrete Mathematics",
+    "Probability"
+  ],
+  "4": [
+    "Information Theory (Computer Science)",
+    "Networking and Internet Architecture",
+    "Information Theory (Mathematics)",
+    "Probability"
+  ],
+  "5": [
+    "Computer Vision and Pattern Recognition",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "6": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "7": [
+    "Computer Science and Game Theory",
+    "Networking and Internet Architecture"
+  ],
+  "8": [
+    "Computers and Society",
+    "Logic in Computer Science"
+  ],
+  "9": [
+    "Machine Learning (Computer Science)",
+    "Social and Information Networks",
+    "Machine Learning (Statistics)"
+  ],
+  "10": [
+    "Combinatorics",
+    "Discrete Mathematics"
+  ],
+  "11": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "12": [
+    "Data Structures and Algorithms",
+    "Computational Geometry"
+  ],
+  "13": [
+    "Computational Linguistics",
+    "Computation and Language"
+  ],
+  "14": [
+    "Information Theory (Computer Science)",
+    "Artificial Intelligence",
+    "Machine Learning (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "15": [
+    "Multiagent Systems",
+    "Artificial Intelligence",
+    "Logic in Computer Science"
+  ],
+  "16": [
+    "Physics and Society",
+    "Computational Engineering, Finance, and Science",
+    "Computers and Society",
+    "Social and Information Networks"
+  ],
+  "17": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "18": [
+    "Networking and Internet Architecture",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "19": [
+    "Formal Languages and Automata Theory",
+    "Computational Complexity"
+  ],
+  "20": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "21": [
+    "Computational Complexity",
+    "Combinatorics"
+  ],
+  "22": [
+    "Computational Engineering, Finance, and Science",
+    "Statistics Theory (Mathematics)",
+    "Statistics Theory (Statistics)"
+  ],
+  "23": [
+    "Combinatorics",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Quantum Physics"
+  ],
+  "24": [
+    "Physics and Society",
+    "Statistical Mechanics",
+    "Social and Information Networks"
+  ],
+  "25": [
+    "Computational Geometry",
+    "Data Structures and Algorithms"
+  ],
+  "26": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "27": [
+    "Networking and Internet Architecture",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "28": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "29": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "30": [
+    "Physics and Society",
+    "Social and Information Networks"
+  ],
+  "31": [
+    "Data Structures and Algorithms",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "32": [
+    "Computation and Language",
+    "Information Retrieval",
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "33": [
+    "Discrete Mathematics",
+    "Computer Science and Game Theory",
+    "Robotics",
+    "Combinatorics",
+    "Probability"
+  ],
+  "34": [
+    "Networking and Internet Architecture",
+    "Data Structures and Algorithms",
+    "Computer Science and Game Theory"
+  ],
+  "35": [
+    "Databases",
+    "Distributed, Parallel, and Cluster Computing"
+  ],
+  "36": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "37": [
+    "Quantum Physics",
+    "Cryptography and Security"
+  ],
+  "38": [
+    "Logic",
+    "Artificial Intelligence"
+  ],
+  "39": [
+    "Computational Engineering, Finance, and Science",
+    "Machine Learning (Computer Science)"
+  ],
+  "40": [
+    "Computers and Society",
+    "Multiagent Systems"
+  ],
+  "41": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "42": [
+    "Data Structures and Algorithms",
+    "Disordered Systems and Neural Networks",
+    "Physics and Society"
+  ],
+  "43": [
+    "Data Structures and Algorithms",
+    "Computational Complexity"
+  ],
+  "44": [
+    "Optimization and Control",
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "45": [
+    "Machine Learning (Statistics)",
+    "Machine Learning (Computer Science)"
+  ],
+  "46": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "47": [
+    "Computer Vision and Pattern Recognition",
+    "Computation and Language"
+  ],
+  "48": [
+    "Social and Information Networks",
+    "Physics and Society"
+  ],
+  "49": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "50": [
+    "Quantum Physics",
+    "Cryptography and Security"
+  ],
+  "51": [
+    "Combinatorics",
+    "Discrete Mathematics"
+  ],
+  "52": [
+    "Databases",
+    "Cryptography and Security"
+  ],
+  "53": [
+    "Information Retrieval",
+    "Computation and Language"
+  ],
+  "54": [
+    "Cryptography and Security",
+    "Social and Information Networks"
+  ],
+  "55": [
+    "Computer Vision and Pattern Recognition",
+    "Machine Learning (Computer Science)",
+    "Neural and Evolutionary Computing"
+  ],
+  "56": [
+    "Software Engineering",
+    "Logic in Computer Science",
+    "Robotics"
+  ],
+  "57": [
+    "Software Engineering",
+    "Formal Languages and Automata Theory"
+  ],
+  "58": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "59": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "60": [
+    "Databases",
+    "Artificial Intelligence",
+    "Computation and Language"
+  ],
+  "61": [
+    "Computer Science and Game Theory",
+    "Logic in Computer Science",
+    "Logic"
+  ],
+  "62": [
+    "Computational Complexity",
+    "Cryptography and Security",
+    "Data Structures and Algorithms"
+  ],
+  "63": [
+    "Neural and Evolutionary Computing",
+    "Neurons and Cognition"
+  ],
+  "64": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "65": [
+    "Robotics",
+    "Systems and Control (Computer Science)"
+  ],
+  "66": [
+    "Machine Learning (Statistics)",
+    "Machine Learning (Computer Science)"
+  ],
+  "67": [
+    "Data Structures and Algorithms",
+    "Discrete Mathematics"
+  ],
+  "68": [
+    "Computational Engineering, Finance, and Science",
+    "Numerical Analysis (Computer Science)"
+  ],
+  "69": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "70": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "71": [
+    "Human-Computer Interaction",
+    "Computers and Society"
+  ],
+  "72": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "73": [
+    "Statistical Mechanics",
+    "Disordered Systems and Neural Networks",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "74": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "75": [
+    "Computational Complexity",
+    "Logic in Computer Science",
+    "Combinatorics"
+  ],
+  "76": [
+    "Information Theory (Computer Science)",
+    "Computation and Language",
+    "Information Theory (Mathematics)"
+  ],
+  "77": [
+    "Artificial Intelligence",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Statistics Theory (Mathematics)",
+    "Statistics Theory (Statistics)"
+  ],
+  "78": [
+    "Social and Information Networks",
+    "Physics and Society"
+  ],
+  "79": [
+    "Information Theory (Computer Science)",
+    "Systems and Control (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Optimization and Control"
+  ],
+  "80": [
+    "Networking and Internet Architecture",
+    "Performance"
+  ],
+  "81": [
+    "Systems and Control (Computer Science)",
+    "Optimization and Control"
+  ],
+  "82": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "83": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "84": [
+    "Artificial Intelligence",
+    "Data Structures and Algorithms"
+  ],
+  "85": [
+    "Logic",
+    "Logic in Computer Science",
+    "Combinatorics"
+  ],
+  "86": [
+    "Quantitative Methods",
+    "Data Structures and Algorithms"
+  ],
+  "87": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "88": [
+    "Cryptography and Security",
+    "Software Engineering"
+  ],
+  "89": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "90": [
+    "Discrete Mathematics",
+    "Combinatorics"
+  ],
+  "91": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "92": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "93": [
+    "Artificial Intelligence",
+    "Logic in Computer Science"
+  ],
+  "94": [
+    "Social and Information Networks",
+    "Computers and Society"
+  ],
+  "95": [
+    "Social and Information Networks",
+    "Physics and Society"
+  ],
+  "96": [
+    "Numerical Analysis (Mathematics)",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "97": [
+    "Artificial Intelligence",
+    "Computation and Language"
+  ],
+  "98": [
+    "Artificial Intelligence",
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "99": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "100": [
+    "Robotics",
+    "Artificial Intelligence"
+  ],
+  "101": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "102": [
+    "Cryptography and Security",
+    "Human-Computer Interaction"
+  ],
+  "103": [
+    "Computation and Language",
+    "Social and Information Networks"
+  ],
+  "104": [
+    "Machine Learning (Computer Science)",
+    "Computer Vision and Pattern Recognition",
+    "Machine Learning (Statistics)"
+  ],
+  "105": [
+    "Optimization and Control",
+    "Systems and Control (Computer Science)"
+  ],
+  "106": [
+    "Computer Vision and Pattern Recognition",
+    "Artificial Intelligence",
+    "Adaptation and Self-Organizing Systems",
+    "Machine Learning (Statistics)"
+  ],
+  "107": [
+    "Physics and Society",
+    "Digital Libraries"
+  ],
+  "108": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "109": [
+    "Computational Linguistics",
+    "Computation and Language"
+  ],
+  "110": [
+    "Machine Learning (Computer Science)",
+    "Optimization and Control"
+  ],
+  "111": [
+    "Information Retrieval",
+    "Multimedia"
+  ],
+  "112": [
+    "Combinatorics",
+    "Data Structures and Algorithms"
+  ],
+  "113": [
+    "Computers and Society",
+    "Programming Languages"
+  ],
+  "114": [
+    "Information Theory (Computer Science)",
+    "Discrete Mathematics",
+    "Information Theory (Mathematics)"
+  ],
+  "115": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "116": [
+    "Formal Languages and Automata Theory",
+    "Discrete Mathematics"
+  ],
+  "117": [
+    "Computer Vision and Pattern Recognition",
+    "Machine Learning (Computer Science)"
+  ],
+  "118": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "119": [
+    "Programming Languages",
+    "Artificial Intelligence",
+    "Symbolic Computation"
+  ],
+  "120": [
+    "Combinatorics",
+    "Discrete Mathematics"
+  ],
+  "121": [
+    "Data Structures and Algorithms",
+    "Discrete Mathematics"
+  ],
+  "122": [
+    "Multimedia",
+    "Cryptography and Security"
+  ],
+  "123": [
+    "Social and Information Networks",
+    "Physics and Society"
+  ],
+  "124": [
+    "Information Theory (Computer Science)",
+    "Computational Complexity",
+    "Information Theory (Mathematics)",
+    "Probability"
+  ],
+  "125": [
+    "Computational Complexity",
+    "Computational Geometry",
+    "Discrete Mathematics"
+  ],
+  "126": [
+    "Machine Learning (Computer Science)",
+    "Computer Vision and Pattern Recognition"
+  ],
+  "127": [
+    "Computer Vision and Pattern Recognition",
+    "Robotics"
+  ],
+  "128": [
+    "Programming Languages",
+    "Logic in Computer Science"
+  ],
+  "129": [
+    "Optimization and Control",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Probability"
+  ],
+  "130": [
+    "Human-Computer Interaction",
+    "Multimedia"
+  ],
+  "131": [
+    "Symbolic Computation",
+    "Logic in Computer Science",
+    "Systems and Control (Computer Science)"
+  ],
+  "132": [
+    "Cryptography and Security",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "133": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "134": [
+    "Systems and Control (Computer Science)",
+    "Optimization and Control"
+  ],
+  "135": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "136": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Programming Languages"
+  ],
+  "137": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "138": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Networking and Internet Architecture"
+  ],
+  "139": [
+    "Computational Complexity",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "140": [
+    "Systems and Control (Computer Science)",
+    "Statistical Mechanics"
+  ],
+  "141": [
+    "Networking and Internet Architecture",
+    "Cryptography and Security",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "142": [
+    "Machine Learning (Computer Science)",
+    "Artificial Intelligence",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Statistics Theory (Mathematics)",
+    "Statistics Theory (Statistics)"
+  ],
+  "143": [
+    "Computer Science and Game Theory",
+    "Social and Information Networks"
+  ],
+  "144": [
+    "Computer Science and Game Theory",
+    "Networking and Internet Architecture",
+    "Physics and Society"
+  ],
+  "145": [
+    "Computer Vision and Pattern Recognition",
+    "Machine Learning (Computer Science)"
+  ],
+  "146": [
+    "Mathematical Software",
+    "Computational Engineering, Finance, and Science",
+    "Performance"
+  ],
+  "147": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "148": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "149": [
+    "Cryptography and Security",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "150": [
+    "Computational Complexity",
+    "Formal Languages and Automata Theory"
+  ],
+  "151": [
+    "Computers and Society",
+    "Cryptography and Security"
+  ],
+  "152": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "153": [
+    "Computational Geometry",
+    "Data Structures and Algorithms",
+    "Robotics"
+  ],
+  "154": [
+    "Social and Information Networks",
+    "Physics and Society"
+  ],
+  "155": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "156": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "157": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "158": [
+    "Machine Learning (Statistics)",
+    "Computer Vision and Pattern Recognition",
+    "Machine Learning (Computer Science)"
+  ],
+  "159": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "160": [
+    "Computers and Society",
+    "Computer Vision and Pattern Recognition"
+  ],
+  "161": [
+    "Computational Geometry",
+    "Data Structures and Algorithms"
+  ],
+  "162": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "163": [
+    "Digital Libraries",
+    "Information Retrieval"
+  ],
+  "164": [
+    "Data Structures and Algorithms",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "165": [
+    "Cryptography and Security",
+    "Neural and Evolutionary Computing"
+  ],
+  "166": [
+    "Machine Learning (Computer Science)",
+    "Artificial Intelligence",
+    "Statistics Theory (Mathematics)",
+    "Machine Learning (Statistics)",
+    "Statistics Theory (Statistics)"
+  ],
+  "167": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "168": [
+    "Numerical Analysis (Computer Science)",
+    "Numerical Analysis (Mathematics)"
+  ],
+  "169": [
+    "Quantum Physics",
+    "Logic in Computer Science"
+  ],
+  "170": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Numerical Analysis (Mathematics)",
+    "Machine Learning (Statistics)"
+  ],
+  "171": [
+    "Computer Vision and Pattern Recognition",
+    "Information Theory (Computer Science)",
+    "Combinatorics",
+    "Information Theory (Mathematics)",
+    "Optimization and Control"
+  ],
+  "172": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "173": [
+    "Computer Science and Game Theory",
+    "Networking and Internet Architecture"
+  ],
+  "174": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Discrete Mathematics"
+  ],
+  "175": [
+    "Numerical Analysis (Computer Science)",
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "176": [
+    "Systems and Control (Computer Science)",
+    "Optimization and Control"
+  ],
+  "177": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "178": [
+    "Physics and Society",
+    "Digital Libraries"
+  ],
+  "179": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "180": [
+    "Statistics Theory (Mathematics)",
+    "Artificial Intelligence",
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)",
+    "Statistics Theory (Statistics)"
+  ],
+  "181": [
+    "Physics and Society",
+    "Social and Information Networks"
+  ],
+  "182": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "183": [
+    "Computer Science and Game Theory",
+    "Logic in Computer Science",
+    "Multiagent Systems"
+  ],
+  "184": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "185": [
+    "Combinatorics",
+    "Discrete Mathematics"
+  ],
+  "186": [
+    "Networking and Internet Architecture",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "187": [
+    "Optimization and Control",
+    "Systems and Control (Computer Science)"
+  ],
+  "188": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "189": [
+    "Probability",
+    "Discrete Mathematics"
+  ],
+  "190": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "191": [
+    "Machine Learning (Computer Science)",
+    "Applications"
+  ],
+  "192": [
+    "Optimization and Control",
+    "Machine Learning (Computer Science)",
+    "Numerical Analysis (Computer Science)",
+    "Numerical Analysis (Mathematics)",
+    "Machine Learning (Statistics)"
+  ],
+  "193": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Statistics Theory (Mathematics)",
+    "Statistics Theory (Statistics)"
+  ],
+  "194": [
+    "Combinatorics",
+    "Computational Complexity",
+    "Probability"
+  ],
+  "195": [
+    "Systems and Control (Computer Science)",
+    "Optimization and Control"
+  ],
+  "196": [
+    "Quantum Physics",
+    "Cryptography and Security"
+  ],
+  "197": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "198": [
+    "Social and Information Networks",
+    "Computers and Society",
+    "Applications",
+    "Machine Learning (Statistics)"
+  ],
+  "199": [
+    "Computational Complexity",
+    "Data Structures and Algorithms"
+  ],
+  "200": [
+    "Computational Engineering, Finance, and Science",
+    "Machine Learning (Computer Science)"
+  ],
+  "201": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "202": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "203": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "204": [
+    "Networking and Internet Architecture",
+    "Multiagent Systems"
+  ],
+  "205": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "206": [
+    "Combinatorics",
+    "Discrete Mathematics"
+  ],
+  "207": [
+    "Networking and Internet Architecture",
+    "Discrete Mathematics"
+  ],
+  "208": [
+    "Networking and Internet Architecture",
+    "Physics and Society"
+  ],
+  "209": [
+    "Social and Information Networks",
+    "Physics and Society"
+  ],
+  "210": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "211": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Probability"
+  ],
+  "212": [
+    "Discrete Mathematics",
+    "Combinatorics"
+  ],
+  "213": [
+    "Machine Learning (Statistics)",
+    "Machine Learning (Computer Science)",
+    "Statistics Theory (Mathematics)",
+    "Statistics Theory (Statistics)"
+  ],
+  "214": [
+    "Machine Learning (Statistics)",
+    "Machine Learning (Computer Science)",
+    "Optimization and Control"
+  ],
+  "215": [
+    "Information Retrieval",
+    "Machine Learning (Computer Science)"
+  ],
+  "216": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Numerical Analysis (Mathematics)"
+  ],
+  "217": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "218": [
+    "Programming Languages",
+    "Logic in Computer Science"
+  ],
+  "219": [
+    "Combinatorics",
+    "Discrete Mathematics"
+  ],
+  "220": [
+    "Computational Linguistics",
+    "Computation and Language"
+  ],
+  "221": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "222": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "223": [
+    "Information Theory (Computer Science)",
+    "Networking and Internet Architecture",
+    "Information Theory (Mathematics)"
+  ],
+  "224": [
+    "Combinatorics",
+    "Discrete Mathematics"
+  ],
+  "225": [
+    "Databases",
+    "Data Structures and Algorithms",
+    "Information Retrieval"
+  ],
+  "226": [
+    "Cryptography and Security",
+    "Networking and Internet Architecture"
+  ],
+  "227": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "228": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "229": [
+    "Optimization and Control",
+    "Computer Vision and Pattern Recognition"
+  ],
+  "230": [
+    "Physics and Society",
+    "Social and Information Networks"
+  ],
+  "231": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Quantum Physics"
+  ],
+  "232": [
+    "Physics and Society",
+    "Social and Information Networks"
+  ],
+  "233": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "234": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "235": [
+    "Machine Learning (Computer Science)",
+    "Artificial Intelligence",
+    "Machine Learning (Statistics)"
+  ],
+  "236": [
+    "Computational Linguistics",
+    "Computation and Language"
+  ],
+  "237": [
+    "Information Theory (Computer Science)",
+    "Machine Learning (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Machine Learning (Statistics)"
+  ],
+  "238": [
+    "Computation and Language",
+    "Machine Learning (Statistics)"
+  ],
+  "239": [
+    "Cryptography and Security",
+    "Networking and Internet Architecture"
+  ],
+  "240": [
+    "Computer Vision and Pattern Recognition",
+    "Machine Learning (Computer Science)",
+    "Neural and Evolutionary Computing"
+  ],
+  "241": [
+    "Computational Engineering, Finance, and Science",
+    "Data Structures and Algorithms"
+  ],
+  "242": [
+    "Social and Information Networks",
+    "Physics and Society"
+  ],
+  "243": [
+    "Numerical Analysis (Computer Science)",
+    "Computer Vision and Pattern Recognition",
+    "Machine Learning (Computer Science)",
+    "Optimization and Control"
+  ],
+  "244": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "245": [
+    "Computational Complexity",
+    "Logic in Computer Science"
+  ],
+  "246": [
+    "Discrete Mathematics",
+    "Data Structures and Algorithms",
+    "Combinatorics"
+  ],
+  "247": [
+    "Information Theory (Computer Science)",
+    "Disordered Systems and Neural Networks",
+    "Information Theory (Mathematics)"
+  ],
+  "248": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "249": [
+    "Robotics",
+    "Artificial Intelligence",
+    "Machine Learning (Computer Science)"
+  ],
+  "250": [
+    "Logic in Computer Science",
+    "Programming Languages"
+  ],
+  "251": [
+    "Physics and Society",
+    "Social and Information Networks"
+  ],
+  "252": [
+    "Social and Information Networks",
+    "Physics and Society",
+    "Applications"
+  ],
+  "253": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "254": [
+    "Computers and Society",
+    "Cryptography and Security"
+  ],
+  "255": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "256": [
+    "Machine Learning (Statistics)",
+    "Distributed, Parallel, and Cluster Computing",
+    "Data Structures and Algorithms",
+    "Machine Learning (Computer Science)",
+    "Optimization and Control"
+  ],
+  "257": [
+    "Methodology",
+    "Artificial Intelligence",
+    "Machine Learning (Computer Science)"
+  ],
+  "258": [
+    "Programming Languages",
+    "Logic in Computer Science"
+  ],
+  "259": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "260": [
+    "Probability",
+    "Networking and Internet Architecture"
+  ],
+  "261": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "262": [
+    "Applications",
+    "Social and Information Networks"
+  ],
+  "263": [
+    "Data Structures and Algorithms",
+    "Optimization and Control"
+  ],
+  "264": [
+    "Numerical Analysis (Computer Science)",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Numerical Analysis (Mathematics)"
+  ],
+  "265": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "266": [
+    "Computers and Society",
+    "Human-Computer Interaction"
+  ],
+  "267": [
+    "Quantum Physics",
+    "Artificial Intelligence",
+    "Machine Learning (Computer Science)"
+  ],
+  "268": [
+    "Optimization and Control",
+    "Machine Learning (Computer Science)",
+    "Systems and Control (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "269": [
+    "Neural and Evolutionary Computing",
+    "Artificial Intelligence",
+    "Quantitative Methods"
+  ],
+  "270": [
+    "Information Theory (Computer Science)",
+    "Distributed, Parallel, and Cluster Computing",
+    "Data Structures and Algorithms",
+    "Information Theory (Mathematics)"
+  ],
+  "271": [
+    "Information Retrieval",
+    "Artificial Intelligence"
+  ],
+  "272": [
+    "Discrete Mathematics",
+    "Combinatorics"
+  ],
+  "273": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Performance"
+  ],
+  "274": [
+    "Logic in Computer Science",
+    "Symbolic Computation"
+  ],
+  "275": [
+    "Databases",
+    "Cryptography and Security"
+  ],
+  "276": [
+    "Artificial Intelligence",
+    "Discrete Mathematics",
+    "Computer Science and Game Theory",
+    "Symbolic Computation"
+  ],
+  "277": [
+    "Combinatorics",
+    "Discrete Mathematics"
+  ],
+  "278": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "279": [
+    "Discrete Mathematics",
+    "Optimization and Control"
+  ],
+  "280": [
+    "Discrete Mathematics",
+    "Combinatorics"
+  ],
+  "281": [
+    "Social and Information Networks",
+    "Physics and Society"
+  ],
+  "282": [
+    "Systems and Control (Computer Science)",
+    "Machine Learning (Computer Science)"
+  ],
+  "283": [
+    "Artificial Intelligence",
+    "Robotics"
+  ],
+  "284": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "285": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Data Structures and Algorithms"
+  ],
+  "286": [
+    "Computer Vision and Pattern Recognition",
+    "Machine Learning (Computer Science)"
+  ],
+  "287": [
+    "Statistics Theory (Mathematics)",
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)",
+    "Statistics Theory (Statistics)"
+  ],
+  "288": [
+    "Computers and Society",
+    "Neurons and Cognition"
+  ],
+  "289": [
+    "Software Engineering",
+    "Performance"
+  ],
+  "290": [
+    "Data Structures and Algorithms",
+    "Logic in Computer Science"
+  ],
+  "291": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "292": [
+    "Quantum Physics",
+    "Cryptography and Security"
+  ],
+  "293": [
+    "Networking and Internet Architecture",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "294": [
+    "Artificial Intelligence",
+    "Computer Science and Game Theory"
+  ],
+  "295": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "296": [
+    "Computation and Language",
+    "Machine Learning (Computer Science)"
+  ],
+  "297": [
+    "Artificial Intelligence",
+    "Computational Complexity"
+  ],
+  "298": [
+    "Logic in Computer Science",
+    "Formal Languages and Automata Theory"
+  ],
+  "299": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "300": [
+    "Networking and Internet Architecture",
+    "Computers and Society"
+  ],
+  "301": [
+    "Digital Libraries",
+    "Physics and Society"
+  ],
+  "302": [
+    "Databases",
+    "Computers and Society"
+  ],
+  "303": [
+    "Machine Learning (Computer Science)",
+    "Information Retrieval"
+  ],
+  "304": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "305": [
+    "Information Theory (Computer Science)",
+    "Networking and Internet Architecture",
+    "Information Theory (Mathematics)"
+  ],
+  "306": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "307": [
+    "Logic in Computer Science",
+    "Computational Complexity"
+  ],
+  "308": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "309": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Statistics Theory (Mathematics)",
+    "Machine Learning (Statistics)",
+    "Statistics Theory (Statistics)"
+  ],
+  "310": [
+    "Machine Learning (Computer Science)",
+    "Numerical Analysis (Computer Science)"
+  ],
+  "311": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "312": [
+    "Numerical Analysis (Computer Science)",
+    "Numerical Analysis (Mathematics)"
+  ],
+  "313": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "314": [
+    "Numerical Analysis (Computer Science)",
+    "Disordered Systems and Neural Networks",
+    "Discrete Mathematics",
+    "Data Structures and Algorithms"
+  ],
+  "315": [
+    "Human-Computer Interaction",
+    "Multimedia"
+  ],
+  "316": [
+    "Data Structures and Algorithms",
+    "Discrete Mathematics"
+  ],
+  "317": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "318": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "319": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "320": [
+    "Physics and Society",
+    "Social and Information Networks"
+  ],
+  "321": [
+    "Cryptography and Security",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "322": [
+    "Computer Vision and Pattern Recognition",
+    "Applications"
+  ],
+  "323": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "324": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "325": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "326": [
+    "Computational Linguistics",
+    "Computation and Language"
+  ],
+  "327": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "328": [
+    "Computational Geometry",
+    "Discrete Mathematics"
+  ],
+  "329": [
+    "Cryptography and Security",
+    "Computers and Society"
+  ],
+  "330": [
+    "Information Theory (Computer Science)",
+    "Networking and Internet Architecture",
+    "Information Theory (Mathematics)"
+  ],
+  "331": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "332": [
+    "Formal Languages and Automata Theory",
+    "Logic in Computer Science"
+  ],
+  "333": [
+    "Computational Complexity",
+    "Data Structures and Algorithms",
+    "Robotics"
+  ],
+  "334": [
+    "Machine Learning (Statistics)",
+    "Information Theory (Computer Science)",
+    "Machine Learning (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "335": [
+    "Programming Languages",
+    "Logic in Computer Science"
+  ],
+  "336": [
+    "Number Theory",
+    "Cryptography and Security"
+  ],
+  "337": [
+    "Cryptography and Security",
+    "Databases"
+  ],
+  "338": [
+    "Logic in Computer Science",
+    "Computational Complexity"
+  ],
+  "339": [
+    "Physics and Society",
+    "Statistical Mechanics",
+    "Social and Information Networks"
+  ],
+  "340": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "341": [
+    "Computer Science and Game Theory",
+    "Computational Complexity"
+  ],
+  "342": [
+    "Optimization and Control",
+    "Systems and Control (Computer Science)"
+  ],
+  "343": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "344": [
+    "Programming Languages",
+    "Computational Engineering, Finance, and Science"
+  ],
+  "345": [
+    "Information Theory (Computer Science)",
+    "Networking and Internet Architecture",
+    "Information Theory (Mathematics)"
+  ],
+  "346": [
+    "Neural and Evolutionary Computing",
+    "Distributed, Parallel, and Cluster Computing",
+    "Networking and Internet Architecture",
+    "Performance",
+    "Systems and Control (Computer Science)"
+  ],
+  "347": [
+    "Machine Learning (Computer Science)",
+    "Applications",
+    "Machine Learning (Statistics)"
+  ],
+  "348": [
+    "Physics and Society",
+    "Social and Information Networks",
+    "Adaptation and Self-Organizing Systems"
+  ],
+  "349": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "350": [
+    "Discrete Mathematics",
+    "Computer Science and Game Theory"
+  ],
+  "351": [
+    "Symbolic Computation",
+    "Logic in Computer Science"
+  ],
+  "352": [
+    "Programming Languages",
+    "Artificial Intelligence"
+  ],
+  "353": [
+    "Information Theory (Computer Science)",
+    "Networking and Internet Architecture",
+    "Information Theory (Mathematics)"
+  ],
+  "354": [
+    "Quantum Physics",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "355": [
+    "Logic",
+    "Computer Science and Game Theory",
+    "Logic in Computer Science"
+  ],
+  "356": [
+    "Computation and Language",
+    "Artificial Intelligence",
+    "Logic in Computer Science"
+  ],
+  "357": [
+    "Combinatorics",
+    "Discrete Mathematics"
+  ],
+  "358": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "359": [
+    "Artificial Intelligence",
+    "Systems and Control (Computer Science)",
+    "Optimization and Control"
+  ],
+  "360": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "361": [
+    "Information Retrieval",
+    "Machine Learning (Computer Science)"
+  ],
+  "362": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "363": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "364": [
+    "Computation and Language",
+    "Neural and Evolutionary Computing"
+  ],
+  "365": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "366": [
+    "Computational Geometry",
+    "Numerical Analysis (Computer Science)"
+  ],
+  "367": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "368": [
+    "Machine Learning (Computer Science)",
+    "Computation and Language"
+  ],
+  "369": [
+    "Machine Learning (Computer Science)",
+    "Computation and Language",
+    "Neural and Evolutionary Computing",
+    "Machine Learning (Statistics)"
+  ],
+  "370": [
+    "Physics and Society",
+    "Statistical Mechanics",
+    "Social and Information Networks"
+  ],
+  "371": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "372": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "373": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "374": [
+    "Digital Libraries",
+    "Social and Information Networks"
+  ],
+  "375": [
+    "Computational Engineering, Finance, and Science",
+    "Mathematical Software"
+  ],
+  "376": [
+    "Systems and Control (Computer Science)",
+    "Data Structures and Algorithms",
+    "Numerical Analysis (Mathematics)",
+    "Optimization and Control"
+  ],
+  "377": [
+    "Artificial Intelligence",
+    "Neural and Evolutionary Computing"
+  ],
+  "378": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "379": [
+    "Computer Vision and Pattern Recognition",
+    "Computation and Language",
+    "Information Retrieval"
+  ],
+  "380": [
+    "Data Structures and Algorithms",
+    "Information Retrieval",
+    "Social and Information Networks"
+  ],
+  "381": [
+    "Data Analysis, Statistics and Probability",
+    "Social and Information Networks",
+    "Physics and Society"
+  ],
+  "382": [
+    "Human-Computer Interaction",
+    "Software Engineering"
+  ],
+  "383": [
+    "Optimization and Control",
+    "Systems and Control (Computer Science)"
+  ],
+  "384": [
+    "Human-Computer Interaction",
+    "Computers and Society"
+  ],
+  "385": [
+    "Artificial Intelligence",
+    "Multiagent Systems"
+  ],
+  "386": [
+    "Information Theory (Computer Science)",
+    "Discrete Mathematics",
+    "Information Theory (Mathematics)"
+  ],
+  "387": [
+    "Formal Languages and Automata Theory",
+    "Discrete Mathematics"
+  ],
+  "388": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "389": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "390": [
+    "Artificial Intelligence",
+    "Computational Engineering, Finance, and Science",
+    "Software Engineering"
+  ],
+  "391": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "392": [
+    "Machine Learning (Computer Science)",
+    "Information Retrieval"
+  ],
+  "393": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "394": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Networking and Internet Architecture",
+    "Software Engineering"
+  ],
+  "395": [
+    "Machine Learning (Computer Science)",
+    "Artificial Intelligence"
+  ],
+  "396": [
+    "Neural and Evolutionary Computing",
+    "Artificial Intelligence"
+  ],
+  "397": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "398": [
+    "Neural and Evolutionary Computing",
+    "Artificial Intelligence"
+  ],
+  "399": [
+    "Machine Learning (Statistics)",
+    "Machine Learning (Computer Science)",
+    "Optimization and Control",
+    "Probability"
+  ],
+  "400": [
+    "Combinatorics",
+    "Discrete Mathematics"
+  ],
+  "401": [
+    "Physics and Society",
+    "Social and Information Networks"
+  ],
+  "402": [
+    "Information Theory (Computer Science)",
+    "Combinatorics",
+    "Information Theory (Mathematics)"
+  ],
+  "403": [
+    "Optimization and Control",
+    "Computational Complexity",
+    "Combinatorics"
+  ],
+  "404": [
+    "Numerical Analysis (Computer Science)",
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "405": [
+    "Multimedia",
+    "Computer Vision and Pattern Recognition"
+  ],
+  "406": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "407": [
+    "Social and Information Networks",
+    "Physics and Society"
+  ],
+  "408": [
+    "Data Structures and Algorithms",
+    "Combinatorics"
+  ],
+  "409": [
+    "Neural and Evolutionary Computing",
+    "Quantum Physics"
+  ],
+  "410": [
+    "Digital Libraries",
+    "Social and Information Networks"
+  ],
+  "411": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "412": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "413": [
+    "Programming Languages",
+    "Logic in Computer Science"
+  ],
+  "414": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "415": [
+    "Artificial Intelligence",
+    "Databases",
+    "Neural and Evolutionary Computing",
+    "Machine Learning (Statistics)"
+  ],
+  "416": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "417": [
+    "Discrete Mathematics",
+    "Combinatorics"
+  ],
+  "418": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "419": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "420": [
+    "Probability",
+    "Discrete Mathematics"
+  ],
+  "421": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Numerical Analysis (Mathematics)",
+    "Probability"
+  ],
+  "422": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Methodology"
+  ],
+  "423": [
+    "Machine Learning (Computer Science)",
+    "Computer Vision and Pattern Recognition"
+  ],
+  "424": [
+    "Machine Learning (Computer Science)",
+    "Computer Science and Game Theory"
+  ],
+  "425": [
+    "Logic in Computer Science",
+    "Programming Languages",
+    "Software Engineering"
+  ],
+  "426": [
+    "Social and Information Networks",
+    "Multimedia",
+    "Physics and Society"
+  ],
+  "427": [
+    "Networking and Internet Architecture",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "428": [
+    "Statistics Theory (Mathematics)",
+    "Computational Geometry",
+    "Statistics Theory (Statistics)"
+  ],
+  "429": [
+    "Social and Information Networks",
+    "Physics and Society"
+  ],
+  "430": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "431": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "432": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "433": [
+    "Cryptography and Security",
+    "Combinatorics"
+  ],
+  "434": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "435": [
+    "Information Theory (Computer Science)",
+    "Networking and Internet Architecture",
+    "Information Theory (Mathematics)"
+  ],
+  "436": [
+    "Machine Learning (Statistics)",
+    "Computers and Society",
+    "Physics and Society",
+    "Applications"
+  ],
+  "437": [
+    "Quantum Physics",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "438": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "439": [
+    "Symbolic Computation",
+    "Artificial Intelligence"
+  ],
+  "440": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "441": [
+    "Physics and Society",
+    "Social and Information Networks"
+  ],
+  "442": [
+    "Information Theory (Computer Science)",
+    "Distributed, Parallel, and Cluster Computing",
+    "Networking and Internet Architecture",
+    "Information Theory (Mathematics)",
+    "Statistics Theory (Mathematics)",
+    "Applications",
+    "Statistics Theory (Statistics)"
+  ],
+  "443": [
+    "Artificial Intelligence",
+    "Cryptography and Security"
+  ],
+  "444": [
+    "Information Retrieval",
+    "Statistical Mechanics",
+    "Social and Information Networks"
+  ],
+  "445": [
+    "Neurons and Cognition",
+    "Artificial Intelligence",
+    "Neural and Evolutionary Computing"
+  ],
+  "446": [
+    "Computational Linguistics",
+    "Computation and Language"
+  ],
+  "447": [
+    "Artificial Intelligence",
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "448": [
+    "Quantum Physics",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "449": [
+    "Digital Libraries",
+    "Human-Computer Interaction"
+  ],
+  "450": [
+    "Software Engineering",
+    "Logic in Computer Science",
+    "Programming Languages"
+  ],
+  "451": [
+    "Data Structures and Algorithms",
+    "Computational Geometry"
+  ],
+  "452": [
+    "Computational Geometry",
+    "Databases",
+    "Data Structures and Algorithms"
+  ],
+  "453": [
+    "Systems and Control (Computer Science)",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Statistics Theory (Mathematics)",
+    "Statistics Theory (Statistics)"
+  ],
+  "454": [
+    "Computer Vision and Pattern Recognition",
+    "Machine Learning (Computer Science)"
+  ],
+  "455": [
+    "Neurons and Cognition",
+    "Human-Computer Interaction"
+  ],
+  "456": [
+    "Systems and Control (Computer Science)",
+    "Robotics",
+    "Optimization and Control"
+  ],
+  "457": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Performance"
+  ],
+  "458": [
+    "Social and Information Networks",
+    "Machine Learning (Computer Science)",
+    "Physics and Society",
+    "Machine Learning (Statistics)"
+  ],
+  "459": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "460": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Computational Complexity",
+    "Data Structures and Algorithms"
+  ],
+  "461": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "462": [
+    "Machine Learning (Computer Science)",
+    "Distributed, Parallel, and Cluster Computing"
+  ],
+  "463": [
+    "Computer Vision and Pattern Recognition",
+    "Computational Geometry"
+  ],
+  "464": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "465": [
+    "Networking and Internet Architecture",
+    "Statistical Mechanics"
+  ],
+  "466": [
+    "Data Analysis, Statistics and Probability",
+    "Information Retrieval"
+  ],
+  "467": [
+    "Systems and Control (Computer Science)",
+    "Optimization and Control"
+  ],
+  "468": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "469": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "470": [
+    "Discrete Mathematics",
+    "Data Structures and Algorithms",
+    "Combinatorics"
+  ],
+  "471": [
+    "Computational Complexity",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "472": [
+    "Information Theory (Computer Science)",
+    "Discrete Mathematics",
+    "Combinatorics",
+    "Information Theory (Mathematics)"
+  ],
+  "473": [
+    "Machine Learning (Computer Science)",
+    "Computer Vision and Pattern Recognition"
+  ],
+  "474": [
+    "Logic in Computer Science",
+    "Artificial Intelligence"
+  ],
+  "475": [
+    "Mathematical Software",
+    "Computational Engineering, Finance, and Science"
+  ],
+  "476": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "477": [
+    "Information Theory (Computer Science)",
+    "Distributed, Parallel, and Cluster Computing",
+    "Information Theory (Mathematics)"
+  ],
+  "478": [
+    "Social and Information Networks",
+    "Physics and Society"
+  ],
+  "479": [
+    "Artificial Intelligence",
+    "Data Structures and Algorithms"
+  ],
+  "480": [
+    "Computation and Language",
+    "Data Analysis, Statistics and Probability",
+    "Physics and Society"
+  ],
+  "481": [
+    "Information Theory (Computer Science)",
+    "Data Structures and Algorithms",
+    "Information Theory (Mathematics)"
+  ],
+  "482": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Quantum Physics"
+  ],
+  "483": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "484": [
+    "Applications",
+    "Robotics"
+  ],
+  "485": [
+    "Software Engineering",
+    "Social and Information Networks",
+    "Adaptation and Self-Organizing Systems",
+    "Physics and Society"
+  ],
+  "486": [
+    "Social and Information Networks",
+    "Cryptography and Security",
+    "Machine Learning (Computer Science)"
+  ],
+  "487": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "488": [
+    "Computers and Society",
+    "Cryptography and Security"
+  ],
+  "489": [
+    "Artificial Intelligence",
+    "Computation and Language",
+    "Machine Learning (Computer Science)"
+  ],
+  "490": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "491": [
+    "Neural and Evolutionary Computing",
+    "Computation and Language",
+    "Machine Learning (Computer Science)"
+  ],
+  "492": [
+    "Machine Learning (Statistics)",
+    "Artificial Intelligence",
+    "Machine Learning (Computer Science)"
+  ],
+  "493": [
+    "Computer Science and Game Theory",
+    "Statistical Mechanics",
+    "Multiagent Systems"
+  ],
+  "494": [
+    "Artificial Intelligence",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Adaptation and Self-Organizing Systems"
+  ],
+  "495": [
+    "Information Theory (Computer Science)",
+    "Machine Learning (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "496": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "497": [
+    "Information Retrieval",
+    "Machine Learning (Computer Science)",
+    "Social and Information Networks"
+  ],
+  "498": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "499": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "500": [
+    "Numerical Analysis (Mathematics)",
+    "Numerical Analysis (Computer Science)"
+  ],
+  "501": [
+    "Cryptography and Security",
+    "Artificial Intelligence"
+  ],
+  "502": [
+    "Computational Linguistics",
+    "Computation and Language"
+  ],
+  "503": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "504": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Optimization and Control"
+  ],
+  "505": [
+    "Computer Vision and Pattern Recognition",
+    "Data Structures and Algorithms"
+  ],
+  "506": [
+    "Artificial Intelligence",
+    "Machine Learning (Computer Science)"
+  ],
+  "507": [
+    "Combinatorics",
+    "Discrete Mathematics"
+  ],
+  "508": [
+    "Computer Vision and Pattern Recognition",
+    "Artificial Intelligence"
+  ],
+  "509": [
+    "Physics and Society",
+    "Social and Information Networks",
+    "Data Analysis, Statistics and Probability"
+  ],
+  "510": [
+    "Computation and Language",
+    "Artificial Intelligence"
+  ],
+  "511": [
+    "Systems and Control (Computer Science)",
+    "Logic in Computer Science",
+    "Performance"
+  ],
+  "512": [
+    "Cryptography and Security",
+    "Logic in Computer Science"
+  ],
+  "513": [
+    "Combinatorics",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "514": [
+    "Computers and Society",
+    "Artificial Intelligence"
+  ],
+  "515": [
+    "Databases",
+    "Information Retrieval"
+  ],
+  "516": [
+    "Optimization and Control",
+    "Systems and Control (Computer Science)"
+  ],
+  "517": [
+    "Cryptography and Security",
+    "Networking and Internet Architecture"
+  ],
+  "518": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "519": [
+    "Cryptography and Security",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "520": [
+    "Cryptography and Security",
+    "Number Theory"
+  ],
+  "521": [
+    "Information Theory (Computer Science)",
+    "Machine Learning (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Machine Learning (Statistics)"
+  ],
+  "522": [
+    "Social and Information Networks",
+    "Physics and Society"
+  ],
+  "523": [
+    "Data Structures and Algorithms",
+    "Discrete Mathematics",
+    "Networking and Internet Architecture"
+  ],
+  "524": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "525": [
+    "Physics and Society",
+    "Social and Information Networks",
+    "Data Analysis, Statistics and Probability"
+  ],
+  "526": [
+    "Combinatorics",
+    "Discrete Mathematics"
+  ],
+  "527": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Quantum Physics"
+  ],
+  "528": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Performance"
+  ],
+  "529": [
+    "Combinatorics",
+    "Discrete Mathematics"
+  ],
+  "530": [
+    "Cryptography and Security",
+    "Computers and Society"
+  ],
+  "531": [
+    "Computer Vision and Pattern Recognition",
+    "Information Retrieval"
+  ],
+  "532": [
+    "Physics and Society",
+    "Social and Information Networks"
+  ],
+  "533": [
+    "Multiagent Systems",
+    "Artificial Intelligence"
+  ],
+  "534": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "535": [
+    "Networking and Internet Architecture",
+    "Distributed, Parallel, and Cluster Computing"
+  ],
+  "536": [
+    "Computational Complexity",
+    "Neural and Evolutionary Computing"
+  ],
+  "537": [
+    "Information Retrieval",
+    "Databases",
+    "Distributed, Parallel, and Cluster Computing"
+  ],
+  "538": [
+    "Logic in Computer Science",
+    "Formal Languages and Automata Theory"
+  ],
+  "539": [
+    "Machine Learning (Statistics)",
+    "Artificial Intelligence"
+  ],
+  "540": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "541": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "542": [
+    "Artificial Intelligence",
+    "Distributed, Parallel, and Cluster Computing"
+  ],
+  "543": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "544": [
+    "Computational Geometry",
+    "Discrete Mathematics",
+    "Combinatorics"
+  ],
+  "545": [
+    "Machine Learning (Computer Science)",
+    "Computational Geometry",
+    "Machine Learning (Statistics)"
+  ],
+  "546": [
+    "Computer Science and Game Theory",
+    "Computational Complexity",
+    "Multiagent Systems"
+  ],
+  "547": [
+    "Combinatorics",
+    "Computational Geometry"
+  ],
+  "548": [
+    "Databases",
+    "Artificial Intelligence"
+  ],
+  "549": [
+    "Machine Learning (Computer Science)",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "550": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "551": [
+    "Programming Languages",
+    "Logic in Computer Science",
+    "Software Engineering"
+  ],
+  "552": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "553": [
+    "Adaptation and Self-Organizing Systems",
+    "Computers and Society",
+    "Physics and Society"
+  ],
+  "554": [
+    "Artificial Intelligence",
+    "Information Retrieval"
+  ],
+  "555": [
+    "Formal Languages and Automata Theory",
+    "Computational Complexity"
+  ],
+  "556": [
+    "Information Retrieval",
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "557": [
+    "Combinatorics",
+    "Discrete Mathematics",
+    "Probability"
+  ],
+  "558": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "559": [
+    "Social and Information Networks",
+    "Computers and Society"
+  ],
+  "560": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "561": [
+    "Cryptography and Security",
+    "Neural and Evolutionary Computing",
+    "Networking and Internet Architecture"
+  ],
+  "562": [
+    "Machine Learning (Statistics)",
+    "Information Theory (Computer Science)",
+    "Machine Learning (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "563": [
+    "Computational Geometry",
+    "Distributed, Parallel, and Cluster Computing",
+    "Discrete Mathematics",
+    "Data Structures and Algorithms"
+  ],
+  "564": [
+    "Physics and Society",
+    "Computers and Society",
+    "Social and Information Networks",
+    "Adaptation and Self-Organizing Systems"
+  ],
+  "565": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "566": [
+    "Artificial Intelligence",
+    "Computation and Language"
+  ],
+  "567": [
+    "Computational Geometry",
+    "Discrete Mathematics"
+  ],
+  "568": [
+    "Computer Science and Game Theory",
+    "Systems and Control (Computer Science)"
+  ],
+  "569": [
+    "Statistics Theory (Mathematics)",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Machine Learning (Statistics)",
+    "Statistics Theory (Statistics)"
+  ],
+  "570": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "571": [
+    "Artificial Intelligence",
+    "Logic in Computer Science"
+  ],
+  "572": [
+    "Computer Vision and Pattern Recognition",
+    "Robotics",
+    "Systems and Control (Computer Science)"
+  ],
+  "573": [
+    "Information Theory (Computer Science)",
+    "Cryptography and Security",
+    "Information Theory (Mathematics)"
+  ],
+  "574": [
+    "Information Theory (Computer Science)",
+    "Statistical Mechanics",
+    "Information Theory (Mathematics)",
+    "Quantum Physics"
+  ],
+  "575": [
+    "Numerical Analysis (Mathematics)",
+    "Numerical Analysis (Computer Science)"
+  ],
+  "576": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "577": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "578": [
+    "Computer Science and Game Theory",
+    "Data Structures and Algorithms"
+  ],
+  "579": [
+    "Optimization and Control",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "580": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "581": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "582": [
+    "Machine Learning (Statistics)",
+    "Machine Learning (Computer Science)"
+  ],
+  "583": [
+    "Information Theory (Computer Science)",
+    "Computation and Language",
+    "Social and Information Networks",
+    "Information Theory (Mathematics)",
+    "Data Analysis, Statistics and Probability"
+  ],
+  "584": [
+    "Databases",
+    "Artificial Intelligence"
+  ],
+  "585": [
+    "Information Theory (Computer Science)",
+    "Combinatorics",
+    "Information Theory (Mathematics)"
+  ],
+  "586": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Databases"
+  ],
+  "587": [
+    "Systems and Control (Computer Science)",
+    "Formal Languages and Automata Theory"
+  ],
+  "588": [
+    "Quantum Physics",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "589": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "590": [
+    "Discrete Mathematics",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "591": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "592": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "593": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "594": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "595": [
+    "Computation and Language",
+    "Information Retrieval",
+    "Machine Learning (Computer Science)",
+    "Neural and Evolutionary Computing",
+    "Machine Learning (Statistics)"
+  ],
+  "596": [
+    "Formal Languages and Automata Theory",
+    "Logic in Computer Science"
+  ],
+  "597": [
+    "Computer Science and Game Theory",
+    "Multiagent Systems"
+  ],
+  "598": [
+    "Symbolic Computation",
+    "Mathematical Software"
+  ],
+  "599": [
+    "Data Structures and Algorithms",
+    "Distributed, Parallel, and Cluster Computing",
+    "Machine Learning (Computer Science)"
+  ],
+  "600": [
+    "Probability",
+    "Performance"
+  ],
+  "601": [
+    "Information Retrieval",
+    "Social and Information Networks"
+  ],
+  "602": [
+    "Machine Learning (Statistics)",
+    "Machine Learning (Computer Science)"
+  ],
+  "603": [
+    "Information Theory (Computer Science)",
+    "Machine Learning (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Machine Learning (Statistics)"
+  ],
+  "604": [
+    "Computers and Society",
+    "Human-Computer Interaction"
+  ],
+  "605": [
+    "Machine Learning (Statistics)",
+    "Artificial Intelligence",
+    "Machine Learning (Computer Science)"
+  ],
+  "606": [
+    "Machine Learning (Computer Science)",
+    "Artificial Intelligence",
+    "Optimization and Control"
+  ],
+  "607": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "608": [
+    "Discrete Mathematics",
+    "Computational Complexity"
+  ],
+  "609": [
+    "Information Theory (Computer Science)",
+    "Statistical Mechanics",
+    "Information Theory (Mathematics)",
+    "Statistics Theory (Mathematics)",
+    "Statistics Theory (Statistics)"
+  ],
+  "610": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Networking and Internet Architecture",
+    "Performance"
+  ],
+  "611": [
+    "Machine Learning (Statistics)",
+    "Machine Learning (Computer Science)"
+  ],
+  "612": [
+    "Discrete Mathematics",
+    "Data Structures and Algorithms",
+    "Combinatorics"
+  ],
+  "613": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "614": [
+    "Statistical Mechanics",
+    "Computation and Language",
+    "Physics and Society"
+  ],
+  "615": [
+    "Statistics Theory (Mathematics)",
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)",
+    "Statistics Theory (Statistics)"
+  ],
+  "616": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "617": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "618": [
+    "Numerical Analysis (Computer Science)",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "619": [
+    "Information Theory (Computer Science)",
+    "Machine Learning (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "620": [
+    "Mathematical Software",
+    "Quantum Physics"
+  ],
+  "621": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "622": [
+    "Disordered Systems and Neural Networks",
+    "Statistical Mechanics",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "623": [
+    "Programming Languages",
+    "Software Engineering"
+  ],
+  "624": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Data Structures and Algorithms"
+  ],
+  "625": [
+    "Information Theory (Computer Science)",
+    "Networking and Internet Architecture",
+    "Information Theory (Mathematics)"
+  ],
+  "626": [
+    "Programming Languages",
+    "Distributed, Parallel, and Cluster Computing"
+  ],
+  "627": [
+    "Artificial Intelligence",
+    "Information Retrieval"
+  ],
+  "628": [
+    "Computer Science and Game Theory",
+    "Data Structures and Algorithms"
+  ],
+  "629": [
+    "Optimization and Control",
+    "Systems and Control (Computer Science)",
+    "Statistics Theory (Mathematics)",
+    "Statistics Theory (Statistics)"
+  ],
+  "630": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "631": [
+    "Machine Learning (Computer Science)",
+    "Artificial Intelligence",
+    "Machine Learning (Statistics)"
+  ],
+  "632": [
+    "Digital Libraries",
+    "Information Retrieval"
+  ],
+  "633": [
+    "Software Engineering",
+    "Programming Languages"
+  ],
+  "634": [
+    "Data Structures and Algorithms",
+    "Discrete Mathematics",
+    "Computer Science and Game Theory",
+    "Combinatorics",
+    "Probability"
+  ],
+  "635": [
+    "Machine Learning (Statistics)",
+    "Machine Learning (Computer Science)"
+  ],
+  "636": [
+    "Computer Science and Game Theory",
+    "Computational Complexity"
+  ],
+  "637": [
+    "Machine Learning (Computer Science)",
+    "Artificial Intelligence"
+  ],
+  "638": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "639": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "640": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Computational Engineering, Finance, and Science"
+  ],
+  "641": [
+    "Human-Computer Interaction",
+    "Computers and Society",
+    "Social and Information Networks"
+  ],
+  "642": [
+    "Logic in Computer Science",
+    "Formal Languages and Automata Theory"
+  ],
+  "643": [
+    "Machine Learning (Computer Science)",
+    "Computers and Society"
+  ],
+  "644": [
+    "Machine Learning (Computer Science)",
+    "Optimization and Control"
+  ],
+  "645": [
+    "Databases",
+    "Data Structures and Algorithms"
+  ],
+  "646": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "647": [
+    "Quantum Physics",
+    "Distributed, Parallel, and Cluster Computing"
+  ],
+  "648": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "649": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "650": [
+    "Systems and Control (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "651": [
+    "Social and Information Networks",
+    "Networking and Internet Architecture"
+  ],
+  "652": [
+    "Data Structures and Algorithms",
+    "Computational Engineering, Finance, and Science"
+  ],
+  "653": [
+    "Logic in Computer Science",
+    "Artificial Intelligence"
+  ],
+  "654": [
+    "Machine Learning (Statistics)",
+    "Machine Learning (Computer Science)"
+  ],
+  "655": [
+    "Artificial Intelligence",
+    "Machine Learning (Computer Science)",
+    "Systems and Control (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "656": [
+    "Machine Learning (Computer Science)",
+    "Artificial Intelligence",
+    "Computers and Society"
+  ],
+  "657": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "658": [
+    "Optimization and Control",
+    "Systems and Control (Computer Science)",
+    "Physics and Society"
+  ],
+  "659": [
+    "Computational Complexity",
+    "Symbolic Computation"
+  ],
+  "660": [
+    "Combinatorics",
+    "Formal Languages and Automata Theory"
+  ],
+  "661": [
+    "Discrete Mathematics",
+    "Computational Complexity",
+    "Logic in Computer Science"
+  ],
+  "662": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "663": [
+    "Cryptography and Security",
+    "Human-Computer Interaction"
+  ],
+  "664": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "665": [
+    "Computational Engineering, Finance, and Science",
+    "Computers and Society"
+  ],
+  "666": [
+    "Formal Languages and Automata Theory",
+    "Combinatorics"
+  ],
+  "667": [
+    "Optimization and Control",
+    "Artificial Intelligence",
+    "Systems and Control (Computer Science)"
+  ],
+  "668": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "669": [
+    "Discrete Mathematics",
+    "Data Structures and Algorithms",
+    "Combinatorics"
+  ],
+  "670": [
+    "Social and Information Networks",
+    "Statistical Mechanics",
+    "Physics and Society"
+  ],
+  "671": [
+    "Discrete Mathematics",
+    "Data Analysis, Statistics and Probability"
+  ],
+  "672": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "673": [
+    "Artificial Intelligence",
+    "Machine Learning (Computer Science)",
+    "Logic"
+  ],
+  "674": [
+    "Machine Learning (Statistics)",
+    "Information Theory (Computer Science)",
+    "Machine Learning (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "675": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "676": [
+    "Databases",
+    "Data Structures and Algorithms"
+  ],
+  "677": [
+    "Optimization and Control",
+    "Robotics"
+  ],
+  "678": [
+    "Artificial Intelligence",
+    "Digital Libraries",
+    "Machine Learning (Computer Science)"
+  ],
+  "679": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "680": [
+    "Quantum Physics",
+    "Cryptography and Security"
+  ],
+  "681": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "682": [
+    "Information Retrieval",
+    "Computation and Language"
+  ],
+  "683": [
+    "Cryptography and Security",
+    "Multimedia"
+  ],
+  "684": [
+    "Networking and Internet Architecture",
+    "Distributed, Parallel, and Cluster Computing",
+    "Performance"
+  ],
+  "685": [
+    "Logic in Computer Science",
+    "Data Structures and Algorithms"
+  ],
+  "686": [
+    "Computational Linguistics",
+    "Computation and Language"
+  ],
+  "687": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "688": [
+    "Cryptography and Security",
+    "Distributed, Parallel, and Cluster Computing"
+  ],
+  "689": [
+    "Data Structures and Algorithms",
+    "Discrete Mathematics"
+  ],
+  "690": [
+    "Programming Languages",
+    "Logic in Computer Science"
+  ],
+  "691": [
+    "Data Structures and Algorithms",
+    "Artificial Intelligence",
+    "Combinatorics",
+    "Optimization and Control"
+  ],
+  "692": [
+    "Artificial Intelligence",
+    "Digital Libraries"
+  ],
+  "693": [
+    "Artificial Intelligence",
+    "Symbolic Computation"
+  ],
+  "694": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "695": [
+    "Computers and Society",
+    "Social and Information Networks",
+    "Physics and Society"
+  ],
+  "696": [
+    "Logic in Computer Science",
+    "Numerical Analysis (Computer Science)",
+    "Systems and Control (Computer Science)"
+  ],
+  "697": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "698": [
+    "Artificial Intelligence",
+    "Programming Languages"
+  ],
+  "699": [
+    "Optimization and Control",
+    "Systems and Control (Computer Science)"
+  ],
+  "700": [
+    "Logic in Computer Science",
+    "Distributed, Parallel, and Cluster Computing",
+    "Programming Languages"
+  ],
+  "701": [
+    "Machine Learning (Statistics)",
+    "Machine Learning (Computer Science)"
+  ],
+  "702": [
+    "Computer Vision and Pattern Recognition",
+    "Human-Computer Interaction"
+  ],
+  "703": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "704": [
+    "Quantum Physics",
+    "Computational Complexity",
+    "Number Theory"
+  ],
+  "705": [
+    "Computer Science and Game Theory",
+    "Artificial Intelligence"
+  ],
+  "706": [
+    "Artificial Intelligence",
+    "Databases",
+    "Logic in Computer Science"
+  ],
+  "707": [
+    "Artificial Intelligence",
+    "Systems and Control (Computer Science)"
+  ],
+  "708": [
+    "Physics and Society",
+    "Social and Information Networks"
+  ],
+  "709": [
+    "Computation and Language",
+    "Artificial Intelligence",
+    "Multimedia",
+    "Machine Learning (Statistics)"
+  ],
+  "710": [
+    "Information Retrieval",
+    "Artificial Intelligence",
+    "Computation and Language"
+  ],
+  "711": [
+    "Networking and Internet Architecture",
+    "Systems and Control (Computer Science)"
+  ],
+  "712": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Probability",
+    "Statistics Theory (Mathematics)",
+    "Statistics Theory (Statistics)"
+  ],
+  "713": [
+    "Logic",
+    "Logic in Computer Science"
+  ],
+  "714": [
+    "Systems and Control (Computer Science)",
+    "Numerical Analysis (Computer Science)",
+    "Optimization and Control"
+  ],
+  "715": [
+    "Information Theory (Computer Science)",
+    "Networking and Internet Architecture",
+    "Information Theory (Mathematics)"
+  ],
+  "716": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "717": [
+    "Data Structures and Algorithms",
+    "Discrete Mathematics",
+    "Machine Learning (Computer Science)"
+  ],
+  "718": [
+    "Machine Learning (Statistics)",
+    "Artificial Intelligence",
+    "Databases",
+    "Machine Learning (Computer Science)"
+  ],
+  "719": [
+    "Data Structures and Algorithms",
+    "Discrete Mathematics"
+  ],
+  "720": [
+    "Logic in Computer Science",
+    "Artificial Intelligence"
+  ],
+  "721": [
+    "Computer Vision and Pattern Recognition",
+    "Systems and Control (Computer Science)",
+    "Optimization and Control"
+  ],
+  "722": [
+    "Artificial Intelligence",
+    "Computer Science and Game Theory"
+  ],
+  "723": [
+    "Computation and Language",
+    "Neural and Evolutionary Computing",
+    "Machine Learning (Statistics)"
+  ],
+  "724": [
+    "Machine Learning (Statistics)",
+    "Machine Learning (Computer Science)"
+  ],
+  "725": [
+    "Physics and Society",
+    "Social and Information Networks"
+  ],
+  "726": [
+    "Optimization and Control",
+    "Discrete Mathematics",
+    "Social and Information Networks",
+    "Systems and Control (Computer Science)",
+    "Physics and Society"
+  ],
+  "727": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "728": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "729": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "730": [
+    "Programming Languages",
+    "Software Engineering"
+  ],
+  "731": [
+    "Information Theory (Computer Science)",
+    "Information Retrieval",
+    "Machine Learning (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "732": [
+    "Data Structures and Algorithms",
+    "Computational Complexity"
+  ],
+  "733": [
+    "Computers and Society",
+    "Social and Information Networks",
+    "Physics and Society"
+  ],
+  "734": [
+    "Optimization and Control",
+    "Machine Learning (Computer Science)"
+  ],
+  "735": [
+    "Computer Vision and Pattern Recognition",
+    "Neural and Evolutionary Computing"
+  ],
+  "736": [
+    "Robotics",
+    "Systems and Control (Computer Science)"
+  ],
+  "737": [
+    "Adaptation and Self-Organizing Systems",
+    "Artificial Intelligence",
+    "Physics and Society"
+  ],
+  "738": [
+    "Numerical Analysis (Mathematics)",
+    "Computational Engineering, Finance, and Science"
+  ],
+  "739": [
+    "Information Theory (Computer Science)",
+    "Networking and Internet Architecture",
+    "Information Theory (Mathematics)"
+  ],
+  "740": [
+    "Cryptography and Security",
+    "Neural and Evolutionary Computing"
+  ],
+  "741": [
+    "Neural and Evolutionary Computing",
+    "Artificial Intelligence"
+  ],
+  "742": [
+    "Information Theory (Computer Science)",
+    "Combinatorics",
+    "Information Theory (Mathematics)"
+  ],
+  "743": [
+    "Number Theory",
+    "Data Structures and Algorithms"
+  ],
+  "744": [
+    "Machine Learning (Computer Science)",
+    "Information Retrieval",
+    "Machine Learning (Statistics)"
+  ],
+  "745": [
+    "Computer Vision and Pattern Recognition",
+    "Numerical Analysis (Mathematics)"
+  ],
+  "746": [
+    "Computational Complexity",
+    "Computer Science and Game Theory"
+  ],
+  "747": [
+    "Machine Learning (Statistics)",
+    "Machine Learning (Computer Science)"
+  ],
+  "748": [
+    "Logic in Computer Science",
+    "Programming Languages"
+  ],
+  "749": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "750": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "751": [
+    "Computers and Society",
+    "Human-Computer Interaction",
+    "Machine Learning (Statistics)"
+  ],
+  "752": [
+    "Machine Learning (Computer Science)",
+    "Statistics Theory (Mathematics)",
+    "Machine Learning (Statistics)",
+    "Statistics Theory (Statistics)"
+  ],
+  "753": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "754": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "755": [
+    "Computer Vision and Pattern Recognition",
+    "Multimedia"
+  ],
+  "756": [
+    "Networking and Internet Architecture",
+    "Performance"
+  ],
+  "757": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "758": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "759": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "760": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "761": [
+    "Systems and Control (Computer Science)",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "762": [
+    "Logic in Computer Science",
+    "Combinatorics",
+    "Logic"
+  ],
+  "763": [
+    "Data Structures and Algorithms",
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "764": [
+    "Computation and Language",
+    "Information Retrieval",
+    "Machine Learning (Computer Science)"
+  ],
+  "765": [
+    "Logic in Computer Science",
+    "Data Structures and Algorithms"
+  ],
+  "766": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "767": [
+    "Human-Computer Interaction",
+    "Computers and Society"
+  ],
+  "768": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "769": [
+    "Artificial Intelligence",
+    "Machine Learning (Computer Science)"
+  ],
+  "770": [
+    "Optimization and Control",
+    "Computational Complexity"
+  ],
+  "771": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "772": [
+    "Machine Learning (Computer Science)",
+    "Computer Vision and Pattern Recognition",
+    "Machine Learning (Statistics)"
+  ],
+  "773": [
+    "Logic in Computer Science",
+    "Programming Languages"
+  ],
+  "774": [
+    "Quantum Physics",
+    "Computational Complexity"
+  ],
+  "775": [
+    "Cryptography and Security",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "776": [
+    "Artificial Intelligence",
+    "Neural and Evolutionary Computing"
+  ],
+  "777": [
+    "Social and Information Networks",
+    "Networking and Internet Architecture"
+  ],
+  "778": [
+    "Software Engineering",
+    "Computers and Society"
+  ],
+  "779": [
+    "Information Retrieval",
+    "Artificial Intelligence"
+  ],
+  "780": [
+    "Information Theory (Computer Science)",
+    "Computer Science and Game Theory",
+    "Information Theory (Mathematics)",
+    "Optimization and Control",
+    "Adaptation and Self-Organizing Systems"
+  ],
+  "781": [
+    "Machine Learning (Statistics)",
+    "Machine Learning (Computer Science)",
+    "Neurons and Cognition"
+  ],
+  "782": [
+    "Combinatorics",
+    "Discrete Mathematics"
+  ],
+  "783": [
+    "Computation and Language",
+    "Information Retrieval",
+    "Social and Information Networks"
+  ],
+  "784": [
+    "Artificial Intelligence",
+    "Neurons and Cognition"
+  ],
+  "785": [
+    "Networking and Internet Architecture",
+    "Optimization and Control"
+  ],
+  "786": [
+    "Applications",
+    "Machine Learning (Computer Science)"
+  ],
+  "787": [
+    "Social and Information Networks",
+    "Computers and Society"
+  ],
+  "788": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "789": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Artificial Intelligence"
+  ],
+  "790": [
+    "Computer Science and Game Theory",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "791": [
+    "Data Structures and Algorithms",
+    "Computational Complexity"
+  ],
+  "792": [
+    "Computational Linguistics",
+    "Computation and Language"
+  ],
+  "793": [
+    "Computational Engineering, Finance, and Science",
+    "Distributed, Parallel, and Cluster Computing",
+    "Numerical Analysis (Computer Science)",
+    "Performance",
+    "Numerical Analysis (Mathematics)"
+  ],
+  "794": [
+    "Software Engineering",
+    "Artificial Intelligence"
+  ],
+  "795": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "796": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Machine Learning (Statistics)"
+  ],
+  "797": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "798": [
+    "Physics and Society",
+    "Social and Information Networks"
+  ],
+  "799": [
+    "Computers and Society",
+    "Cryptography and Security"
+  ],
+  "800": [
+    "Artificial Intelligence",
+    "Distributed, Parallel, and Cluster Computing"
+  ],
+  "801": [
+    "Neurons and Cognition",
+    "Disordered Systems and Neural Networks",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Data Analysis, Statistics and Probability"
+  ],
+  "802": [
+    "Computation and Language",
+    "Machine Learning (Computer Science)"
+  ],
+  "803": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "804": [
+    "Logic in Computer Science",
+    "Programming Languages"
+  ],
+  "805": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "806": [
+    "Computational Linguistics",
+    "Computation and Language"
+  ],
+  "807": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "808": [
+    "Artificial Intelligence",
+    "Probability"
+  ],
+  "809": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "810": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "811": [
+    "Artificial Intelligence",
+    "Machine Learning (Computer Science)"
+  ],
+  "812": [
+    "Artificial Intelligence",
+    "Logic in Computer Science"
+  ],
+  "813": [
+    "Computational Complexity",
+    "Quantum Physics"
+  ],
+  "814": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "815": [
+    "Social and Information Networks",
+    "Physics and Society",
+    "Applications"
+  ],
+  "816": [
+    "Information Theory (Computer Science)",
+    "Cryptography and Security",
+    "Information Theory (Mathematics)"
+  ],
+  "817": [
+    "Machine Learning (Computer Science)",
+    "Neural and Evolutionary Computing"
+  ],
+  "818": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "819": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "820": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "821": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Data Structures and Algorithms"
+  ],
+  "822": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "823": [
+    "Computational Complexity",
+    "Logic in Computer Science"
+  ],
+  "824": [
+    "Information Theory (Computer Science)",
+    "Networking and Internet Architecture",
+    "Information Theory (Mathematics)"
+  ],
+  "825": [
+    "Symbolic Computation",
+    "Logic in Computer Science"
+  ],
+  "826": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "827": [
+    "Artificial Intelligence",
+    "Logic in Computer Science",
+    "Logic"
+  ],
+  "828": [
+    "Software Engineering",
+    "Mathematical Software"
+  ],
+  "829": [
+    "Formal Languages and Automata Theory",
+    "Combinatorics"
+  ],
+  "830": [
+    "Physics and Society",
+    "Social and Information Networks"
+  ],
+  "831": [
+    "Neural and Evolutionary Computing",
+    "Artificial Intelligence"
+  ],
+  "832": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Computational Engineering, Finance, and Science"
+  ],
+  "833": [
+    "Quantum Physics",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "834": [
+    "Computational Complexity",
+    "Machine Learning (Computer Science)"
+  ],
+  "835": [
+    "Information Theory (Computer Science)",
+    "Networking and Internet Architecture",
+    "Information Theory (Mathematics)"
+  ],
+  "836": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "837": [
+    "Networking and Internet Architecture",
+    "Information Theory (Computer Science)",
+    "Machine Learning (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "838": [
+    "Information Retrieval",
+    "Machine Learning (Computer Science)"
+  ],
+  "839": [
+    "Computer Vision and Pattern Recognition",
+    "Computational Engineering, Finance, and Science"
+  ],
+  "840": [
+    "Artificial Intelligence",
+    "Machine Learning (Computer Science)"
+  ],
+  "841": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "842": [
+    "Optimization and Control",
+    "Artificial Intelligence",
+    "Information Retrieval"
+  ],
+  "843": [
+    "Computational Linguistics",
+    "Computation and Language"
+  ],
+  "844": [
+    "Data Structures and Algorithms",
+    "Combinatorics",
+    "Numerical Analysis (Mathematics)",
+    "Optimization and Control"
+  ],
+  "845": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "846": [
+    "Statistics Theory (Mathematics)",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Statistics Theory (Statistics)"
+  ],
+  "847": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "848": [
+    "Computational Linguistics",
+    "Computation and Language"
+  ],
+  "849": [
+    "Computational Complexity",
+    "Quantum Physics"
+  ],
+  "850": [
+    "Data Structures and Algorithms",
+    "Distributed, Parallel, and Cluster Computing"
+  ],
+  "851": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "852": [
+    "Probability",
+    "Social and Information Networks",
+    "Physics and Society"
+  ],
+  "853": [
+    "Numerical Analysis (Computer Science)",
+    "Computational Complexity",
+    "Data Structures and Algorithms",
+    "Numerical Analysis (Mathematics)"
+  ],
+  "854": [
+    "Machine Learning (Computer Science)",
+    "Computational Engineering, Finance, and Science",
+    "Quantitative Methods"
+  ],
+  "855": [
+    "Cryptography and Security",
+    "Multimedia"
+  ],
+  "856": [
+    "Software Engineering",
+    "Formal Languages and Automata Theory"
+  ],
+  "857": [
+    "Social and Information Networks",
+    "Physics and Society"
+  ],
+  "858": [
+    "Data Structures and Algorithms",
+    "Cryptography and Security",
+    "Databases"
+  ],
+  "859": [
+    "Data Structures and Algorithms",
+    "Computer Science and Game Theory"
+  ],
+  "860": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "861": [
+    "Quantum Physics",
+    "Cryptography and Security"
+  ],
+  "862": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "863": [
+    "Logic",
+    "Logic in Computer Science"
+  ],
+  "864": [
+    "Machine Learning (Computer Science)",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "865": [
+    "Information Theory (Computer Science)",
+    "Multimedia",
+    "Information Theory (Mathematics)"
+  ],
+  "866": [
+    "Computational Engineering, Finance, and Science",
+    "Mathematical Software"
+  ],
+  "867": [
+    "Multimedia",
+    "Logic in Computer Science"
+  ],
+  "868": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Performance"
+  ],
+  "869": [
+    "Cryptography and Security",
+    "Digital Libraries",
+    "Multimedia"
+  ],
+  "870": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "871": [
+    "Artificial Intelligence",
+    "Quantum Physics"
+  ],
+  "872": [
+    "Information Theory (Computer Science)",
+    "Systems and Control (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Optimization and Control"
+  ],
+  "873": [
+    "Databases",
+    "Distributed, Parallel, and Cluster Computing",
+    "Programming Languages"
+  ],
+  "874": [
+    "Data Structures and Algorithms",
+    "Discrete Mathematics",
+    "Software Engineering",
+    "Combinatorics"
+  ],
+  "875": [
+    "Disordered Systems and Neural Networks",
+    "Social and Information Networks",
+    "Physics and Society"
+  ],
+  "876": [
+    "Discrete Mathematics",
+    "Computational Complexity",
+    "Data Structures and Algorithms",
+    "Combinatorics"
+  ],
+  "877": [
+    "Machine Learning (Computer Science)",
+    "Multimedia"
+  ],
+  "878": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "879": [
+    "Combinatorics",
+    "Discrete Mathematics"
+  ],
+  "880": [
+    "Computer Vision and Pattern Recognition",
+    "Artificial Intelligence",
+    "Robotics"
+  ],
+  "881": [
+    "Computer Vision and Pattern Recognition",
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "882": [
+    "Data Structures and Algorithms",
+    "Computational Geometry"
+  ],
+  "883": [
+    "Artificial Intelligence",
+    "Logic in Computer Science"
+  ],
+  "884": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "885": [
+    "Computational Geometry",
+    "Computational Engineering, Finance, and Science",
+    "Numerical Analysis (Mathematics)"
+  ],
+  "886": [
+    "Artificial Intelligence",
+    "Machine Learning (Computer Science)"
+  ],
+  "887": [
+    "Human-Computer Interaction",
+    "Computers and Society"
+  ],
+  "888": [
+    "Data Structures and Algorithms",
+    "Computational Complexity"
+  ],
+  "889": [
+    "Quantum Physics",
+    "Cryptography and Security"
+  ],
+  "890": [
+    "Software Engineering",
+    "Computers and Society"
+  ],
+  "891": [
+    "Logic in Computer Science",
+    "Programming Languages"
+  ],
+  "892": [
+    "Combinatorics",
+    "Discrete Mathematics"
+  ],
+  "893": [
+    "Logic in Computer Science",
+    "Programming Languages",
+    "Quantum Physics"
+  ],
+  "894": [
+    "Computational Complexity",
+    "Disordered Systems and Neural Networks",
+    "Artificial Intelligence"
+  ],
+  "895": [
+    "Computation and Language",
+    "Artificial Intelligence"
+  ],
+  "896": [
+    "Machine Learning (Statistics)",
+    "Machine Learning (Computer Science)",
+    "Statistics Theory (Mathematics)",
+    "Statistics Theory (Statistics)"
+  ],
+  "897": [
+    "Computation and Language",
+    "Information Retrieval"
+  ],
+  "898": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "899": [
+    "Neural and Evolutionary Computing",
+    "Information Retrieval"
+  ],
+  "900": [
+    "Computational Linguistics",
+    "Computation and Language"
+  ],
+  "901": [
+    "Information Retrieval",
+    "Computers and Society",
+    "Digital Libraries"
+  ],
+  "902": [
+    "Logic in Computer Science",
+    "Formal Languages and Automata Theory"
+  ],
+  "903": [
+    "Information Theory (Computer Science)",
+    "Multiagent Systems",
+    "Information Theory (Mathematics)"
+  ],
+  "904": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "905": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "906": [
+    "Information Retrieval",
+    "Computation and Language",
+    "Digital Libraries"
+  ],
+  "907": [
+    "Discrete Mathematics",
+    "Combinatorics"
+  ],
+  "908": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "909": [
+    "Information Theory (Computer Science)",
+    "Symbolic Computation",
+    "Information Theory (Mathematics)"
+  ],
+  "910": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Databases"
+  ],
+  "911": [
+    "Social and Information Networks",
+    "Artificial Intelligence",
+    "Neural and Evolutionary Computing",
+    "Physics and Society"
+  ],
+  "912": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "913": [
+    "Information Theory (Computer Science)",
+    "Computational Geometry",
+    "Information Theory (Mathematics)"
+  ],
+  "914": [
+    "Multiagent Systems",
+    "Logic in Computer Science"
+  ],
+  "915": [
+    "Data Analysis, Statistics and Probability",
+    "Computation and Language",
+    "Quantum Physics"
+  ],
+  "916": [
+    "Artificial Intelligence",
+    "Databases"
+  ],
+  "917": [
+    "Data Structures and Algorithms",
+    "Discrete Mathematics",
+    "Social and Information Networks"
+  ],
+  "918": [
+    "Social and Information Networks",
+    "Computers and Society",
+    "Applications"
+  ],
+  "919": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "920": [
+    "Networking and Internet Architecture",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Probability"
+  ],
+  "921": [
+    "Discrete Mathematics",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Quantum Physics"
+  ],
+  "922": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "923": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "924": [
+    "Databases",
+    "Data Structures and Algorithms"
+  ],
+  "925": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "926": [
+    "Neural and Evolutionary Computing",
+    "Artificial Intelligence"
+  ],
+  "927": [
+    "Logic in Computer Science",
+    "Networking and Internet Architecture"
+  ],
+  "928": [
+    "Computational Linguistics",
+    "Computation and Language"
+  ],
+  "929": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "930": [
+    "Information Theory (Computer Science)",
+    "Computer Vision and Pattern Recognition",
+    "Information Theory (Mathematics)"
+  ],
+  "931": [
+    "Artificial Intelligence",
+    "Neural and Evolutionary Computing"
+  ],
+  "932": [
+    "Data Structures and Algorithms",
+    "Computational Geometry"
+  ],
+  "933": [
+    "Quantum Physics",
+    "Computational Complexity"
+  ],
+  "934": [
+    "Machine Learning (Computer Science)",
+    "Machine Learning (Statistics)"
+  ],
+  "935": [
+    "Databases",
+    "Data Structures and Algorithms"
+  ],
+  "936": [
+    "Computational Engineering, Finance, and Science",
+    "Computational Geometry"
+  ],
+  "937": [
+    "Networking and Internet Architecture",
+    "Computer Science and Game Theory"
+  ],
+  "938": [
+    "Discrete Mathematics",
+    "Combinatorics"
+  ],
+  "939": [
+    "Applications",
+    "Computer Vision and Pattern Recognition"
+  ],
+  "940": [
+    "Information Theory (Computer Science)",
+    "Cryptography and Security",
+    "Information Theory (Mathematics)"
+  ],
+  "941": [
+    "Neural and Evolutionary Computing",
+    "Computer Vision and Pattern Recognition"
+  ],
+  "942": [
+    "Machine Learning (Statistics)",
+    "Machine Learning (Computer Science)"
+  ],
+  "943": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "944": [
+    "Quantum Physics",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "945": [
+    "Distributed, Parallel, and Cluster Computing",
+    "Systems and Control (Computer Science)",
+    "Optimization and Control"
+  ],
+  "946": [
+    "Artificial Intelligence",
+    "Computer Vision and Pattern Recognition"
+  ],
+  "947": [
+    "Information Retrieval",
+    "Computation and Language"
+  ],
+  "948": [
+    "Machine Learning (Computer Science)",
+    "Computer Vision and Pattern Recognition"
+  ],
+  "949": [
+    "Combinatorics",
+    "Discrete Mathematics",
+    "Probability"
+  ],
+  "950": [
+    "Artificial Intelligence",
+    "Machine Learning (Computer Science)"
+  ],
+  "951": [
+    "Computational Complexity",
+    "Combinatorics"
+  ],
+  "952": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "953": [
+    "Computational Linguistics",
+    "Computation and Language"
+  ],
+  "954": [
+    "Logic in Computer Science",
+    "Computational Complexity"
+  ],
+  "955": [
+    "Networking and Internet Architecture",
+    "Performance"
+  ],
+  "956": [
+    "Machine Learning (Statistics)",
+    "Machine Learning (Computer Science)",
+    "Quantitative Methods"
+  ],
+  "957": [
+    "Data Structures and Algorithms",
+    "Quantitative Methods"
+  ],
+  "958": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "959": [
+    "Computer Vision and Pattern Recognition",
+    "Multimedia"
+  ],
+  "960": [
+    "Data Structures and Algorithms",
+    "Formal Languages and Automata Theory"
+  ],
+  "961": [
+    "Optimization and Control",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "962": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "963": [
+    "Optimization and Control",
+    "Neural and Evolutionary Computing"
+  ],
+  "964": [
+    "Computational Engineering, Finance, and Science",
+    "Multiagent Systems"
+  ],
+  "965": [
+    "Computation and Language",
+    "Information Retrieval",
+    "Machine Learning (Computer Science)"
+  ],
+  "966": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "967": [
+    "Physics and Society",
+    "Statistical Mechanics",
+    "Social and Information Networks"
+  ],
+  "968": [
+    "Numerical Analysis (Mathematics)",
+    "Computational Engineering, Finance, and Science",
+    "Numerical Analysis (Computer Science)"
+  ],
+  "969": [
+    "Machine Learning (Statistics)",
+    "Machine Learning (Computer Science)"
+  ],
+  "970": [
+    "Information Theory (Computer Science)",
+    "Combinatorics",
+    "Information Theory (Mathematics)",
+    "Quantum Physics"
+  ],
+  "971": [
+    "Information Theory (Computer Science)",
+    "Networking and Internet Architecture",
+    "Information Theory (Mathematics)"
+  ],
+  "972": [
+    "Systems and Control (Computer Science)",
+    "Multiagent Systems",
+    "Robotics"
+  ],
+  "973": [
+    "Neurons and Cognition",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Quantitative Methods",
+    "Methodology"
+  ],
+  "974": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)",
+    "Numerical Analysis (Mathematics)"
+  ],
+  "975": [
+    "Networking and Internet Architecture",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "976": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "977": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "978": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "979": [
+    "Systems and Control (Computer Science)",
+    "Optimization and Control",
+    "Physics and Society"
+  ],
+  "980": [
+    "Combinatorics",
+    "Machine Learning (Computer Science)"
+  ],
+  "981": [
+    "Optimization and Control",
+    "Systems and Control (Computer Science)"
+  ],
+  "982": [
+    "Computational Geometry",
+    "Discrete Mathematics"
+  ],
+  "983": [
+    "Quantum Physics",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "984": [
+    "Numerical Analysis (Computer Science)",
+    "Numerical Analysis (Mathematics)"
+  ],
+  "985": [
+    "Information Retrieval",
+    "Computation and Language"
+  ],
+  "986": [
+    "Quantum Physics",
+    "Logic in Computer Science"
+  ],
+  "987": [
+    "Information Theory (Computer Science)",
+    "Disordered Systems and Neural Networks",
+    "Information Theory (Mathematics)"
+  ],
+  "988": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "989": [
+    "Quantum Physics",
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "990": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "991": [
+    "Data Structures and Algorithms",
+    "Discrete Mathematics"
+  ],
+  "992": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "993": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "994": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "995": [
+    "Artificial Intelligence",
+    "Applications"
+  ],
+  "996": [
+    "Artificial Intelligence",
+    "Data Structures and Algorithms",
+    "Multiagent Systems"
+  ],
+  "997": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ],
+  "998": [
+    "Information Theory (Computer Science)",
+    "Networking and Internet Architecture",
+    "Information Theory (Mathematics)"
+  ],
+  "999": [
+    "Information Theory (Computer Science)",
+    "Information Theory (Mathematics)"
+  ]
+}
