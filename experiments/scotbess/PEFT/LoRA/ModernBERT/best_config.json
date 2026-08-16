@@ -1,0 +1,42 @@
+{
+  "output_dir": "/content/drive/MyDrive/thesis_results/SCOTBESS_EXPERIMENTS/SCOTBESS_ModernBERT_LoRA/search",
+  "base_model": "answerdotai/ModernBERT-base",
+  "tokenizer_name": "answerdotai/ModernBERT-base",
+  "max_length": 8192,
+  "num_train_epochs": 4,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "early_stopping_patience": 3,
+  "micro_batch_size": 4,
+  "lora_r": 8,
+  "lora_alpha": 8,
+  "lora_dropout": 0.05,
+  "target_modules": [
+    "Wqkv",
+    "Wo",
+    "Wi"
+  ],
+  "modules_to_save": [
+    "head",
+    "classifier",
+    "classifier",
+    "score",
+    "classifier",
+    "score",
+    "classifier",
+    "score",
+    "classifier",
+    "score",
+    "classifier",
+    "score",
+    "classifier",
+    "score"
+  ],
+  "learning_rate": 0.0005,
+  "effective_batch_size": 8,
+  "gradient_accumulation_steps": 2,
+  "selection_metric": "val_f1_macro",
+  "best_validation_macro_f1": 0.8136344543031957,
+  "best_validation_micro_f1": 0.8513444951801116,
+  "best_checkpoint_from_search": "/content/drive/MyDrive/thesis_results/SCOTBESS_EXPERIMENTS/SCOTBESS_ModernBERT_LoRA/search/lr_0.0005_efbs_8/checkpoint-672"
+}

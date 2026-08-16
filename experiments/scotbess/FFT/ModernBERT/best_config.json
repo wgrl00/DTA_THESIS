@@ -1,0 +1,18 @@
+{
+  "output_dir": "/content/drive/MyDrive/thesis_results/SCOTBESS_EXPERIMENTS/SCOTBESS_ModernBERT/search",
+  "base_model": "answerdotai/ModernBERT-base",
+  "tokenizer_name": "answerdotai/ModernBERT-base",
+  "max_length": 8192,
+  "num_train_epochs": 4,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "early_stopping_patience": 3,
+  "micro_batch_size": 4,
+  "learning_rate": 3e-05,
+  "effective_batch_size": 8,
+  "gradient_accumulation_steps": 2,
+  "selection_metric": "val_f1_macro",
+  "best_validation_macro_f1": 0.7604066201866588,
+  "best_validation_micro_f1": 0.8251676121712223,
+  "best_checkpoint_from_search": "/content/drive/MyDrive/thesis_results/SCOTBESS_EXPERIMENTS/SCOTBESS_ModernBERT/search/lr_3e-05_efbs_8/checkpoint-672"
+}

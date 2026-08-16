@@ -1,0 +1,2 @@
+model,dataset,best_params,cv_score,gs_refit_time_sec,final_train_time_sec,val_f1_micro,val_f1_macro,test_f1_micro,test_f1_macro,inference_time_sec,inference_per_sample_ms
+LinearSVC_TFIDF,Scot-BESS,"{""clf__estimator__C"": 1, ""clf__estimator__class_weight"": ""balanced"", ""tfidf__max_df"": 0.95, ""tfidf__max_features"": 10000, ""tfidf__min_df"": 2, ""tfidf__ngram_range"": [1, 1]}",0.700606368020143,153.36846810899988,1.2615433350001695,0.8186785891703925,0.7867722764794988,0.8149606299212598,0.782547012229492,0.07916192599986971,0.46565838823452765

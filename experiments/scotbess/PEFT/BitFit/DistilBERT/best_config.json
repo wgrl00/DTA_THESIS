@@ -1,0 +1,16 @@
+{
+  "output_dir": "/content/drive/MyDrive/thesis_results/SCOTBESS_EXPERIMENTS/SCOTBESS_DistilBERT_Bitfit/search",
+  "base_model": "distilbert-base-uncased",
+  "tokenizer_name": "distilbert-base-uncased",
+  "max_length": 512,
+  "num_train_epochs": 10,
+  "weight_decay": 0.0,
+  "warmup_ratio": 0.1,
+  "early_stopping_patience": 3,
+  "learning_rate": 0.001,
+  "batch_size": 8,
+  "selection_metric": "val_f1_macro",
+  "best_validation_macro_f1": 0.7229719706566305,
+  "best_validation_micro_f1": 0.7871900826446281,
+  "best_checkpoint_from_search": "/content/drive/MyDrive/thesis_results/SCOTBESS_EXPERIMENTS/SCOTBESS_DistilBERT_Bitfit/search/lr_0.001_bs_8/checkpoint-1512"
+}

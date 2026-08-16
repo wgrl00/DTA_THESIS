@@ -1,0 +1,31 @@
+{
+  "output_dir": "/content/drive/MyDrive/thesis_results/SCOTBESS_EXPERIMENTS/SCOTBESS_DistilBERT_LoRA/search",
+  "base_model": "distilbert-base-uncased",
+  "tokenizer_name": "distilbert-base-uncased",
+  "max_length": 512,
+  "num_train_epochs": 10,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "early_stopping_patience": 3,
+  "lora_r": 8,
+  "lora_alpha": 8,
+  "lora_dropout": 0.05,
+  "target_modules": [
+    "q_lin",
+    "v_lin",
+    "k_lin",
+    "out_lin",
+    "lin1",
+    "lin2"
+  ],
+  "modules_to_save": [
+    "pre_classifier",
+    "classifier"
+  ],
+  "learning_rate": 0.0005,
+  "batch_size": 8,
+  "selection_metric": "val_f1_macro",
+  "best_validation_macro_f1": 0.7498943236526339,
+  "best_validation_micro_f1": 0.8105369807497467,
+  "best_checkpoint_from_search": "/content/drive/MyDrive/thesis_results/SCOTBESS_EXPERIMENTS/SCOTBESS_DistilBERT_LoRA/search/lr_0.0005_bs_8/checkpoint-1512"
+}

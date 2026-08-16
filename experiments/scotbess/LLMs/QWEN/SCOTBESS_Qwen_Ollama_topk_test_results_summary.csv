@@ -1,0 +1,2 @@
+model,dataset,prompt_strategy,test_f1_micro,test_f1_macro,avg_predicted_labels,avg_inference_time_sec,inference_per_sample_ms,avg_input_tokens,max_input_tokens,total_wall_time_min,n_error_rows
+qwen2.5:7b,Scot-BESS,topk_5_examples_label_descriptions,0.702089552238806,0.6354892691728466,3.9352941176470586,6.652980932067423,6652.980932067423,5394.794117647059,27910,18.85126971801122,0

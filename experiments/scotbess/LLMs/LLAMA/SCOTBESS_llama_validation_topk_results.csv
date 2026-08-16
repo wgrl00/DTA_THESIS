@@ -1,0 +1,2 @@
+path,n_total_rows,n_examples,n_error_rows,micro_f1,macro_f1,avg_predicted_labels,avg_gold_labels,avg_input_tokens,avg_output_tokens,avg_runtime_seconds
+/content/drive/MyDrive/thesis_results/SCOTBESS_EXPERIMENTS/SCOTBESS_LLAMA_OLLAMA_outputs/SCOTBESS_llama_OLLAMA_val_topk_predictions.jsonl,165,165,0,0.718005540166205,0.6699914260841296,4.781818181818182,6.157575757575757,5148.278787878788,34.36363636363637,7.181791032444347

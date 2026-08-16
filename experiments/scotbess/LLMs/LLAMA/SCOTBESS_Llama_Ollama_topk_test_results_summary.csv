@@ -1,0 +1,2 @@
+model,dataset,prompt_strategy,test_f1_micro,test_f1_macro,avg_predicted_labels,avg_inference_time_sec,inference_per_sample_ms,avg_input_tokens,max_input_tokens,total_wall_time_min,n_error_rows
+Llama3.1_8B_Ollama_q4_K_M,Scot-BESS,topk_5_examples_label_descriptions,0.7319004524886877,0.6895410014403379,4.482352941176471,7.344161443149342,7344.161443149342,5367.482352941176,27658,20.809614507357278,0
