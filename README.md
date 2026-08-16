@@ -141,15 +141,14 @@ Scot-BESS was developed specifically for this study from written responses assoc
 
 The final experiment-ready dataset contains the processed and masked response text, multi-label annotations, and the predefined dataset split.
 
+
+**Privacy note.** The experiments were run on an internal version of Scot-BESS containing additional collection metadata, namely project identifiers. This metadata was not used as an input to the models and has been removed from the publicly released dataset to reduce the risk of identifying the source planning applications.
+
 Raw unmasked consultation material and intermediate dataset versions are not distributed in this repository.
 
 ## Scot-BESS data preparation
 
 The Scot-BESS construction workflow is documented under `data_preparation/scotbess/`.
-
-**Privacy note.** The experiments were run on an internal version of Scot-BESS containing additional collection metadata, namely project identifiers. This metadata was not used as an input to the models and has been removed from the publicly released dataset to reduce the risk of identifying the source planning applications.
-
-Raw unmasked consultation material and intermediate dataset versions are not distributed in this repository.
 
 ### 01 — Collection
 
