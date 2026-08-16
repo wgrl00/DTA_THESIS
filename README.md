@@ -1,6 +1,6 @@
-# Exploring Parameter-Efficient Fine-Tuning Techniques for Multi-Label Topic Classification
+# Master's Thesis
 
-This repository contains the data-preparation workflows, experiments, and results associated with my master's thesis, **_Exploring Parameter-Efficient Fine-Tuning Techniques for Multi-Label Topic Classification_**.
+This repository contains the data-preparation workflows, experiments, and results associated with my master's thesis, **_Exploring parameter-efficient fine-tuning techniques for multi-label topic classification in energy infrastructure consultation responses_**.
 
 The study compares classical machine learning, prompt-based large language models, full fine-tuning (FFT), and parameter-efficient fine-tuning (PEFT) for multi-label topic classification on two datasets:
 
