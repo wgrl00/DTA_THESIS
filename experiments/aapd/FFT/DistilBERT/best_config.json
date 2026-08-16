@@ -1,0 +1,16 @@
+{
+  "output_dir": "/content/drive/MyDrive/thesis_results/AAPD_DistilBERT/search",
+  "base_model": "distilbert-base-uncased",
+  "tokenizer_name": "distilbert-base-uncased",
+  "max_length": 512,
+  "num_train_epochs": 10,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "early_stopping_patience": 3,
+  "learning_rate": 3e-05,
+  "batch_size": 8,
+  "selection_metric": "val_f1_macro",
+  "best_validation_macro_f1": 0.5894729427548527,
+  "best_validation_micro_f1": 0.7458215758628175,
+  "best_checkpoint_from_search": "/content/drive/MyDrive/thesis_results/AAPD_DistilBERT/search/lr_3e-05_bs_8/checkpoint-47110"
+}

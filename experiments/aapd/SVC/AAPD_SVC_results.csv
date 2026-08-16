@@ -1,0 +1,2 @@
+model,dataset,best_params,cv_score,gs_refit_time_sec,final_train_time_sec,val_f1_micro,val_f1_macro,test_f1_micro,test_f1_macro,inference_time_sec,inference_per_sample_ms
+LinearSVC_TFIDF,AAPD,"{""clf__estimator__C"": 1, ""clf__estimator__class_weight"": ""balanced"", ""tfidf__max_df"": 0.95, ""tfidf__max_features"": 50000, ""tfidf__min_df"": 5, ""tfidf__ngram_range"": [1, 2]}",0.5642913051072358,18707.116205540002,497.02164920799987,0.7260834014717906,0.5784803594865506,0.6988636363636364,0.5554443666056249,0.562189854997996,0.562189854997996

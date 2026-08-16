@@ -1,0 +1,28 @@
+{
+  "output_dir": "/content/drive/MyDrive/thesis_results/AAPD_ModernBERT_LoRa/search",
+  "base_model": "answerdotai/ModernBERT-base",
+  "tokenizer_name": "answerdotai/ModernBERT-base",
+  "max_length": 512,
+  "num_train_epochs": 4,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "early_stopping_patience": 3,
+  "lora_r": 8,
+  "lora_alpha": 8,
+  "lora_dropout": 0.05,
+  "target_modules": [
+    "Wqkv",
+    "Wo",
+    "Wi"
+  ],
+  "modules_to_save": [
+    "head",
+    "classifier"
+  ],
+  "learning_rate": 0.0005,
+  "batch_size": 8,
+  "selection_metric": "val_f1_macro",
+  "best_validation_macro_f1": 0.5934581222168666,
+  "best_validation_micro_f1": 0.753072625698324,
+  "best_checkpoint_from_search": "/content/drive/MyDrive/thesis_results/AAPD_ModernBERT_LoRa/search/lr_0.0005_bs_8/checkpoint-26920"
+}

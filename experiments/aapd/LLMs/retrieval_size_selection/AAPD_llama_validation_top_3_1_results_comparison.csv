@@ -1,0 +1,3 @@
+path,n_total_rows,n_examples,n_error_rows,micro_f1,macro_f1,avg_predicted_labels,avg_gold_labels,avg_input_tokens,avg_output_tokens,avg_runtime_seconds
+/content/drive/MyDrive/thesis_results/AAPD_LLAMA_OLLAMA_outputs/AAPD_llama_OLLAMA_val_topk3_predictions.jsonl,1000,1000,0,0.5546218487394958,0.48855668018293447,2.122,2.4,3043.291,18.653,2.3409661326408386
+/content/drive/MyDrive/thesis_results/AAPD_LLAMA_OLLAMA_outputs/AAPD_llama_OLLAMA_val_topk1_predictions.jsonl,1000,1000,0,0.49700996677740866,0.447228564702673,2.115,2.4,2623.876,18.84,1.8526974549293518

@@ -1,0 +1,17 @@
+{
+  "output_dir": "/content/drive/MyDrive/thesis_results/AAPD_DistilBERT_Houlsby/search",
+  "base_model": "distilbert-base-uncased",
+  "tokenizer_name": "distilbert-base-uncased",
+  "max_length": 512,
+  "num_train_epochs": 10,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "early_stopping_patience": 3,
+  "reduction_factor": 8,
+  "learning_rate": 0.0005,
+  "batch_size": 16,
+  "selection_metric": "val_f1_macro",
+  "best_validation_macro_f1": 0.600185187027472,
+  "best_validation_micro_f1": 0.755891507336594,
+  "best_checkpoint_from_search": "/content/drive/MyDrive/thesis_results/AAPD_DistilBERT_Houlsby/search/lr_0.0005_bs_16/checkpoint-30285"
+}

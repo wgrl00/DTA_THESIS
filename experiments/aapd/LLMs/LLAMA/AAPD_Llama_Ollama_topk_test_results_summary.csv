@@ -1,0 +1,2 @@
+model,dataset,prompt_strategy,test_f1_micro,test_f1_macro,avg_predicted_labels,avg_inference_time_sec,inference_per_sample_ms,total_wall_time_min,n_error_rows
+Llama3.1_8B_Ollama_q4_K_M,AAPD,topk_5_examples_label_descriptions,0.5810958306046715,0.5063924109013279,2.16,2.806423471927643,2806.423471927643,46.88,0

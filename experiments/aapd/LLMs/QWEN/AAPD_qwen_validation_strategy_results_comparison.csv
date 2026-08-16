@@ -1,0 +1,4 @@
+path,n_total_rows,n_examples,n_error_rows,micro_f1,macro_f1,avg_predicted_labels,avg_gold_labels,avg_input_tokens,avg_output_tokens,avg_runtime_seconds
+/content/drive/MyDrive/thesis_results/AAPD_QWEN_OLLAMA_outputs/AAPD_qwen_OLLAMA_val_greedy_predictions.jsonl,1000,1000,0,0.6612118531623176,0.512695362105178,2.122,2.4,3484.865,18.887,2.6598465251922607
+/content/drive/MyDrive/thesis_results/AAPD_QWEN_OLLAMA_outputs/AAPD_qwen_OLLAMA_val_topk_predictions.jsonl,1000,1000,0,0.7003561887800535,0.5374807282212092,2.092,2.4,3456.344,18.728,2.5993799839019776
+/content/drive/MyDrive/thesis_results/AAPD_QWEN_OLLAMA_outputs/AAPD_qwen_OLLAMA_val_labels_only_predictions.jsonl,1000,1000,0,0.34683954619124796,0.28028129541911423,1.919,2.4,2371.403,17.954,1.4400785086154937

@@ -1,0 +1,2 @@
+model,dataset,prompt_strategy,test_f1_micro,test_f1_macro,avg_predicted_labels,avg_inference_time_sec,inference_per_sample_ms,total_wall_time_min,n_error_rows
+qwen2.5:7b,AAPD,topk_5_examples_label_descriptions,0.6721275182643347,0.5328273735105804,2.096,2.6271349494457246,2627.1349494457245,43.89,0

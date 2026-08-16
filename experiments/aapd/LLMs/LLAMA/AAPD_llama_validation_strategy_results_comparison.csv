@@ -1,0 +1,4 @@
+path,n_total_rows,n_examples,n_error_rows,micro_f1,macro_f1,avg_predicted_labels,avg_gold_labels,avg_input_tokens,avg_output_tokens,avg_runtime_seconds
+/content/drive/MyDrive/thesis_results/AAPD_LLAMA_OLLAMA_outputs/AAPD_llama_OLLAMA_val_greedy_predictions.jsonl,1000,1000,0,0.5559862187769165,0.484232214778299,2.244,2.4,3483.481,19.111,2.7899634952545167
+/content/drive/MyDrive/thesis_results/AAPD_LLAMA_OLLAMA_outputs/AAPD_llama_OLLAMA_val_topk_predictions.jsonl,1000,1000,0,0.5891404704330622,0.5160644864975766,2.149,2.4,3454.613,18.503,2.7319644889831545
+/content/drive/MyDrive/thesis_results/AAPD_LLAMA_OLLAMA_outputs/AAPD_llama_OLLAMA_val_labels_only_predictions.jsonl,1000,1000,0,0.26424050632911394,0.2471688659236831,2.656,2.4,2372.683,27.517,1.8729577438831329

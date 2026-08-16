@@ -1,0 +1,16 @@
+{
+  "output_dir": "/content/drive/MyDrive/thesis_results/AAPD_ModernBERT/search",
+  "base_model": "answerdotai/ModernBERT-base",
+  "tokenizer_name": "answerdotai/ModernBERT-base",
+  "max_length": 512,
+  "num_train_epochs": 4,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "early_stopping_patience": 3,
+  "learning_rate": 3e-05,
+  "batch_size": 16,
+  "selection_metric": "val_f1_macro",
+  "best_validation_macro_f1": 0.5922615204899022,
+  "best_validation_micro_f1": 0.7594600575348528,
+  "best_checkpoint_from_search": "/content/drive/MyDrive/thesis_results/AAPD_ModernBERT/search/lr_3e-05_bs_16/checkpoint-13460"
+}
