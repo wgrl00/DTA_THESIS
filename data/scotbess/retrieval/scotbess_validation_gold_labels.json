@@ -1,0 +1,1340 @@
+{
+  "0": [
+    "Grid Connection and Electrical Infrastructure"
+  ],
+  "1": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Health and Wellbeing",
+    "Property Value",
+    "Residential Proximity and Separation Distance"
+  ],
+  "2": [
+    "Residential Proximity and Separation Distance"
+  ],
+  "3": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Water and Soil Contamination",
+    "Health and Wellbeing",
+    "Site Selection",
+    "Decommissioning and Site Restoration",
+    "Residential Proximity and Separation Distance"
+  ],
+  "4": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Residential Proximity and Separation Distance"
+  ],
+  "5": [
+    "Site Selection"
+  ],
+  "6": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Noise",
+    "Health and Wellbeing",
+    "Site Selection",
+    "Project Need",
+    "Residential Proximity and Separation Distance"
+  ],
+  "7": [
+    "Residential Proximity and Separation Distance"
+  ],
+  "8": [
+    "Fire and Explosion Risk",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Health and Wellbeing",
+    "Residential Proximity and Separation Distance"
+  ],
+  "9": [
+    "Residential Proximity and Separation Distance"
+  ],
+  "10": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Water and Soil Contamination",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection"
+  ],
+  "11": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Site Selection"
+  ],
+  "12": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Site Selection"
+  ],
+  "13": [
+    "Wildlife and Ecology",
+    "Health and Wellbeing",
+    "Site Selection"
+  ],
+  "14": [
+    "Wildlife and Ecology",
+    "Water and Soil Contamination",
+    "Site Selection",
+    "Residential Proximity and Separation Distance"
+  ],
+  "15": [],
+  "16": [
+    "Site Selection"
+  ],
+  "17": [
+    "Landscape, Visual and Heritage Impact",
+    "Cumulative Impact",
+    "Site Selection"
+  ],
+  "18": [],
+  "19": [
+    "Fire and Explosion Risk",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Residential Proximity and Separation Distance"
+  ],
+  "20": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Landscape, Visual and Heritage Impact",
+    "Water and Soil Contamination",
+    "Light Pollution",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance"
+  ],
+  "21": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Cumulative Impact",
+    "Noise"
+  ],
+  "22": [
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Residential Proximity and Separation Distance"
+  ],
+  "23": [
+    "Fire and Explosion Risk",
+    "Emergency Planning and Response",
+    "Health and Wellbeing"
+  ],
+  "24": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Cumulative Impact"
+  ],
+  "25": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Noise",
+    "Health and Wellbeing",
+    "Property Value",
+    "Planning Policy and Regulatory Compliance",
+    "Community and Economic Benefits",
+    "Project Need"
+  ],
+  "26": [
+    "Consultation, Transparency and Information",
+    "Project Need",
+    "Grid Connection and Electrical Infrastructure"
+  ],
+  "27": [],
+  "28": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Water and Soil Contamination",
+    "Noise"
+  ],
+  "29": [
+    "Fire and Explosion Risk",
+    "Site Selection",
+    "Project Need",
+    "Agricultural Land"
+  ],
+  "30": [
+    "Traffic",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Cumulative Impact",
+    "Noise",
+    "Health and Wellbeing",
+    "Property Value",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Community and Economic Benefits",
+    "Project Need",
+    "Agricultural Land",
+    "Residential Proximity and Separation Distance"
+  ],
+  "31": [
+    "Landscape, Visual and Heritage Impact",
+    "Project Need"
+  ],
+  "32": [
+    "Landscape, Visual and Heritage Impact",
+    "Cumulative Impact",
+    "Health and Wellbeing",
+    "Residential Proximity and Separation Distance"
+  ],
+  "33": [
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination"
+  ],
+  "34": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Noise",
+    "Health and Wellbeing",
+    "Property Value",
+    "Site Selection",
+    "Residential Proximity and Separation Distance"
+  ],
+  "35": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Project Need",
+    "Agricultural Land",
+    "Residential Proximity and Separation Distance",
+    "Grid Connection and Electrical Infrastructure"
+  ],
+  "36": [
+    "Traffic",
+    "Landscape, Visual and Heritage Impact",
+    "Health and Wellbeing",
+    "Grid Connection and Electrical Infrastructure"
+  ],
+  "37": [
+    "Residential Proximity and Separation Distance"
+  ],
+  "38": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact"
+  ],
+  "39": [],
+  "40": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Site Selection"
+  ],
+  "41": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Landscape, Visual and Heritage Impact",
+    "Noise",
+    "Site Selection"
+  ],
+  "42": [
+    "Traffic",
+    "Decommissioning and Site Restoration"
+  ],
+  "43": [
+    "Landscape, Visual and Heritage Impact",
+    "Cumulative Impact",
+    "Noise",
+    "Site Selection",
+    "Community and Economic Benefits",
+    "Project Need",
+    "Agricultural Land",
+    "Grid Connection and Electrical Infrastructure"
+  ],
+  "44": [
+    "Residential Proximity and Separation Distance"
+  ],
+  "45": [
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Water and Soil Contamination",
+    "Noise"
+  ],
+  "46": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Water and Soil Contamination",
+    "Noise",
+    "Residential Proximity and Separation Distance"
+  ],
+  "47": [
+    "Fire and Explosion Risk",
+    "Water and Soil Contamination",
+    "Property Value"
+  ],
+  "48": [
+    "Site Selection"
+  ],
+  "49": [
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Emergency Planning and Response",
+    "Noise",
+    "Health and Wellbeing",
+    "Decommissioning and Site Restoration",
+    "Agricultural Land"
+  ],
+  "50": [
+    "Landscape, Visual and Heritage Impact",
+    "Community and Economic Benefits",
+    "Decommissioning and Site Restoration"
+  ],
+  "51": [
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Property Value"
+  ],
+  "52": [
+    "Traffic",
+    "Landscape, Visual and Heritage Impact",
+    "Noise",
+    "Community and Economic Benefits",
+    "Agricultural Land"
+  ],
+  "53": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Water and Soil Contamination",
+    "Light Pollution",
+    "Noise",
+    "Property Value"
+  ],
+  "54": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Noise",
+    "Health and Wellbeing",
+    "Community and Economic Benefits",
+    "Decommissioning and Site Restoration",
+    "Agricultural Land"
+  ],
+  "55": [
+    "Traffic",
+    "Fire and Explosion Risk"
+  ],
+  "56": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Emergency Planning and Response",
+    "Cumulative Impact",
+    "Noise",
+    "Grid Connection and Electrical Infrastructure"
+  ],
+  "57": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Light Pollution",
+    "Noise",
+    "Community and Economic Benefits",
+    "Project Need",
+    "Grid Connection and Electrical Infrastructure"
+  ],
+  "58": [
+    "Wildlife and Ecology",
+    "Landscape, Visual and Heritage Impact",
+    "Noise"
+  ],
+  "59": [
+    "Wildlife and Ecology",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Light Pollution",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Decommissioning and Site Restoration",
+    "Grid Connection and Electrical Infrastructure"
+  ],
+  "60": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Health and Wellbeing",
+    "Residential Proximity and Separation Distance"
+  ],
+  "61": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Cumulative Impact"
+  ],
+  "62": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Site Selection"
+  ],
+  "63": [
+    "Traffic",
+    "Landscape, Visual and Heritage Impact",
+    "Site Selection",
+    "Residential Proximity and Separation Distance"
+  ],
+  "64": [
+    "Landscape, Visual and Heritage Impact",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection"
+  ],
+  "65": [
+    "Traffic",
+    "Cumulative Impact",
+    "Noise",
+    "Site Selection"
+  ],
+  "66": [
+    "Traffic",
+    "Noise",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Project Need"
+  ],
+  "67": [
+    "Residential Proximity and Separation Distance"
+  ],
+  "68": [
+    "Traffic",
+    "Fire and Explosion Risk"
+  ],
+  "69": [
+    "Landscape, Visual and Heritage Impact",
+    "Site Selection"
+  ],
+  "70": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Landscape, Visual and Heritage Impact",
+    "Noise",
+    "Site Selection"
+  ],
+  "71": [
+    "Landscape, Visual and Heritage Impact",
+    "Site Selection",
+    "Residential Proximity and Separation Distance"
+  ],
+  "72": [
+    "Landscape, Visual and Heritage Impact",
+    "Site Selection"
+  ],
+  "73": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Landscape, Visual and Heritage Impact",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Community and Economic Benefits",
+    "Project Need",
+    "Grid Connection and Electrical Infrastructure"
+  ],
+  "74": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Light Pollution",
+    "Noise",
+    "Planning Policy and Regulatory Compliance"
+  ],
+  "75": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Water and Soil Contamination",
+    "Site Selection",
+    "Community and Economic Benefits"
+  ],
+  "76": [
+    "Landscape, Visual and Heritage Impact",
+    "Site Selection",
+    "Residential Proximity and Separation Distance"
+  ],
+  "77": [
+    "Wildlife and Ecology",
+    "Health and Wellbeing"
+  ],
+  "78": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Light Pollution",
+    "Health and Wellbeing",
+    "Site Selection",
+    "Community and Economic Benefits",
+    "Residential Proximity and Separation Distance"
+  ],
+  "79": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Light Pollution",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection"
+  ],
+  "80": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Light Pollution",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Decommissioning and Site Restoration",
+    "Project Need",
+    "Residential Proximity and Separation Distance",
+    "Grid Connection and Electrical Infrastructure"
+  ],
+  "81": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Landscape, Visual and Heritage Impact",
+    "Noise",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Decommissioning and Site Restoration",
+    "Agricultural Land",
+    "Residential Proximity and Separation Distance"
+  ],
+  "82": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Site Selection",
+    "Community and Economic Benefits",
+    "Project Need"
+  ],
+  "83": [
+    "Fire and Explosion Risk",
+    "Water and Soil Contamination",
+    "Health and Wellbeing"
+  ],
+  "84": [
+    "Landscape, Visual and Heritage Impact",
+    "Site Selection"
+  ],
+  "85": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Noise",
+    "Site Selection",
+    "Community and Economic Benefits"
+  ],
+  "86": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Site Selection",
+    "Residential Proximity and Separation Distance"
+  ],
+  "87": [
+    "Wildlife and Ecology",
+    "Health and Wellbeing",
+    "Site Selection"
+  ],
+  "88": [
+    "Traffic",
+    "Landscape, Visual and Heritage Impact",
+    "Residential Proximity and Separation Distance"
+  ],
+  "89": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Noise",
+    "Property Value",
+    "Residential Proximity and Separation Distance"
+  ],
+  "90": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Emergency Planning and Response",
+    "Noise",
+    "Residential Proximity and Separation Distance"
+  ],
+  "91": [],
+  "92": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Emergency Planning and Response",
+    "Cumulative Impact",
+    "Noise",
+    "Health and Wellbeing",
+    "Site Selection",
+    "Decommissioning and Site Restoration",
+    "Agricultural Land"
+  ],
+  "93": [
+    "Consultation, Transparency and Information",
+    "Cumulative Impact",
+    "Noise"
+  ],
+  "94": [
+    "Fire and Explosion Risk",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Residential Proximity and Separation Distance"
+  ],
+  "95": [
+    "Landscape, Visual and Heritage Impact",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Agricultural Land"
+  ],
+  "96": [
+    "Fire and Explosion Risk",
+    "Consultation, Transparency and Information",
+    "Cumulative Impact",
+    "Health and Wellbeing",
+    "Project Need",
+    "Residential Proximity and Separation Distance"
+  ],
+  "97": [
+    "Traffic",
+    "Landscape, Visual and Heritage Impact",
+    "Noise",
+    "Planning Policy and Regulatory Compliance",
+    "Project Need"
+  ],
+  "98": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Cumulative Impact",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Residential Proximity and Separation Distance"
+  ],
+  "99": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Noise",
+    "Community and Economic Benefits",
+    "Project Need"
+  ],
+  "100": [
+    "Fire and Explosion Risk",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Cumulative Impact",
+    "Site Selection"
+  ],
+  "101": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Agricultural Land"
+  ],
+  "102": [
+    "Traffic",
+    "Consultation, Transparency and Information"
+  ],
+  "103": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Health and Wellbeing",
+    "Site Selection"
+  ],
+  "104": [
+    "Traffic",
+    "Landscape, Visual and Heritage Impact",
+    "Health and Wellbeing",
+    "Property Value",
+    "Site Selection",
+    "Agricultural Land"
+  ],
+  "105": [],
+  "106": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Noise",
+    "Health and Wellbeing",
+    "Property Value",
+    "Agricultural Land",
+    "Residential Proximity and Separation Distance"
+  ],
+  "107": [
+    "Traffic",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Cumulative Impact",
+    "Health and Wellbeing"
+  ],
+  "108": [
+    "Consultation, Transparency and Information",
+    "Site Selection"
+  ],
+  "109": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Light Pollution",
+    "Noise"
+  ],
+  "110": [
+    "Project Need"
+  ],
+  "111": [
+    "Landscape, Visual and Heritage Impact",
+    "Cumulative Impact"
+  ],
+  "112": [
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Cumulative Impact",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Community and Economic Benefits",
+    "Residential Proximity and Separation Distance"
+  ],
+  "113": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Cumulative Impact",
+    "Light Pollution",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Community and Economic Benefits",
+    "Decommissioning and Site Restoration",
+    "Agricultural Land",
+    "Residential Proximity and Separation Distance"
+  ],
+  "114": [
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Community and Economic Benefits"
+  ],
+  "115": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Project Need",
+    "Agricultural Land",
+    "Residential Proximity and Separation Distance"
+  ],
+  "116": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Noise",
+    "Health and Wellbeing",
+    "Agricultural Land",
+    "Residential Proximity and Separation Distance"
+  ],
+  "117": [
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Noise",
+    "Health and Wellbeing",
+    "Property Value",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Decommissioning and Site Restoration",
+    "Agricultural Land",
+    "Residential Proximity and Separation Distance"
+  ],
+  "118": [
+    "Fire and Explosion Risk",
+    "Emergency Planning and Response",
+    "Site Selection",
+    "Agricultural Land",
+    "Residential Proximity and Separation Distance"
+  ],
+  "119": [
+    "Fire and Explosion Risk",
+    "Emergency Planning and Response",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Agricultural Land",
+    "Residential Proximity and Separation Distance"
+  ],
+  "120": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Emergency Planning and Response",
+    "Health and Wellbeing",
+    "Project Need"
+  ],
+  "121": [
+    "Fire and Explosion Risk",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Residential Proximity and Separation Distance"
+  ],
+  "122": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Light Pollution",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Decommissioning and Site Restoration",
+    "Agricultural Land",
+    "Residential Proximity and Separation Distance"
+  ],
+  "123": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Noise",
+    "Health and Wellbeing",
+    "Site Selection",
+    "Residential Proximity and Separation Distance"
+  ],
+  "124": [
+    "Fire and Explosion Risk",
+    "Water and Soil Contamination",
+    "Site Selection"
+  ],
+  "125": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Health and Wellbeing",
+    "Site Selection"
+  ],
+  "126": [
+    "Wildlife and Ecology",
+    "Landscape, Visual and Heritage Impact",
+    "Project Need"
+  ],
+  "127": [
+    "Site Selection"
+  ],
+  "128": [
+    "Wildlife and Ecology",
+    "Landscape, Visual and Heritage Impact",
+    "Health and Wellbeing"
+  ],
+  "129": [
+    "Landscape, Visual and Heritage Impact",
+    "Site Selection",
+    "Residential Proximity and Separation Distance"
+  ],
+  "130": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Light Pollution",
+    "Grid Connection and Electrical Infrastructure"
+  ],
+  "131": [],
+  "132": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Noise",
+    "Project Need"
+  ],
+  "133": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Light Pollution",
+    "Noise",
+    "Health and Wellbeing",
+    "Property Value",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Community and Economic Benefits",
+    "Project Need",
+    "Agricultural Land",
+    "Residential Proximity and Separation Distance",
+    "Grid Connection and Electrical Infrastructure"
+  ],
+  "134": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Cumulative Impact",
+    "Noise",
+    "Health and Wellbeing",
+    "Site Selection",
+    "Residential Proximity and Separation Distance"
+  ],
+  "135": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Noise",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Community and Economic Benefits",
+    "Project Need",
+    "Grid Connection and Electrical Infrastructure"
+  ],
+  "136": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Light Pollution",
+    "Noise",
+    "Health and Wellbeing",
+    "Property Value",
+    "Planning Policy and Regulatory Compliance",
+    "Community and Economic Benefits",
+    "Project Need",
+    "Residential Proximity and Separation Distance"
+  ],
+  "137": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Light Pollution",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Community and Economic Benefits",
+    "Decommissioning and Site Restoration",
+    "Project Need",
+    "Residential Proximity and Separation Distance"
+  ],
+  "138": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Light Pollution",
+    "Noise",
+    "Site Selection",
+    "Residential Proximity and Separation Distance"
+  ],
+  "139": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Cumulative Impact",
+    "Noise",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Community and Economic Benefits",
+    "Agricultural Land",
+    "Residential Proximity and Separation Distance",
+    "Grid Connection and Electrical Infrastructure"
+  ],
+  "140": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Light Pollution",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Residential Proximity and Separation Distance"
+  ],
+  "141": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Light Pollution",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Decommissioning and Site Restoration",
+    "Agricultural Land",
+    "Residential Proximity and Separation Distance"
+  ],
+  "142": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Light Pollution",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Agricultural Land",
+    "Residential Proximity and Separation Distance"
+  ],
+  "143": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Light Pollution",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Decommissioning and Site Restoration",
+    "Residential Proximity and Separation Distance"
+  ],
+  "144": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Water and Soil Contamination",
+    "Light Pollution",
+    "Noise",
+    "Health and Wellbeing",
+    "Property Value",
+    "Planning Policy and Regulatory Compliance",
+    "Community and Economic Benefits"
+  ],
+  "145": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Light Pollution",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Residential Proximity and Separation Distance"
+  ],
+  "146": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Noise",
+    "Site Selection",
+    "Agricultural Land",
+    "Grid Connection and Electrical Infrastructure"
+  ],
+  "147": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Cumulative Impact",
+    "Noise",
+    "Health and Wellbeing",
+    "Site Selection"
+  ],
+  "148": [
+    "Wildlife and Ecology",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Cumulative Impact",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Community and Economic Benefits",
+    "Project Need"
+  ],
+  "149": [
+    "Wildlife and Ecology",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Cumulative Impact",
+    "Light Pollution",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Community and Economic Benefits",
+    "Project Need",
+    "Agricultural Land"
+  ],
+  "150": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Light Pollution",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Community and Economic Benefits",
+    "Decommissioning and Site Restoration",
+    "Project Need",
+    "Agricultural Land"
+  ],
+  "151": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Cumulative Impact",
+    "Light Pollution",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Community and Economic Benefits",
+    "Agricultural Land"
+  ],
+  "152": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Cumulative Impact",
+    "Planning Policy and Regulatory Compliance",
+    "Grid Connection and Electrical Infrastructure"
+  ],
+  "153": [
+    "Wildlife and Ecology",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Community and Economic Benefits",
+    "Decommissioning and Site Restoration",
+    "Project Need",
+    "Agricultural Land"
+  ],
+  "154": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Cumulative Impact",
+    "Noise",
+    "Health and Wellbeing",
+    "Site Selection",
+    "Agricultural Land"
+  ],
+  "155": [
+    "Fire and Explosion Risk",
+    "Consultation, Transparency and Information",
+    "Residential Proximity and Separation Distance"
+  ],
+  "156": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Cumulative Impact",
+    "Health and Wellbeing",
+    "Property Value",
+    "Site Selection",
+    "Residential Proximity and Separation Distance"
+  ],
+  "157": [
+    "Project Need"
+  ],
+  "158": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Community and Economic Benefits",
+    "Project Need",
+    "Residential Proximity and Separation Distance",
+    "Grid Connection and Electrical Infrastructure"
+  ],
+  "159": [],
+  "160": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Noise",
+    "Health and Wellbeing",
+    "Site Selection",
+    "Grid Connection and Electrical Infrastructure"
+  ],
+  "161": [
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Site Selection"
+  ],
+  "162": [
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Emergency Planning and Response",
+    "Cumulative Impact",
+    "Project Need"
+  ],
+  "163": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Consultation, Transparency and Information",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Light Pollution",
+    "Noise",
+    "Planning Policy and Regulatory Compliance",
+    "Community and Economic Benefits",
+    "Decommissioning and Site Restoration",
+    "Agricultural Land",
+    "Residential Proximity and Separation Distance"
+  ],
+  "164": [
+    "Wildlife and Ecology",
+    "Traffic",
+    "Fire and Explosion Risk",
+    "Landscape, Visual and Heritage Impact",
+    "Emergency Planning and Response",
+    "Water and Soil Contamination",
+    "Cumulative Impact",
+    "Light Pollution",
+    "Noise",
+    "Health and Wellbeing",
+    "Planning Policy and Regulatory Compliance",
+    "Site Selection",
+    "Community and Economic Benefits",
+    "Decommissioning and Site Restoration",
+    "Project Need",
+    "Residential Proximity and Separation Distance"
+  ]
+}
