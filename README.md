@@ -25,17 +25,33 @@ The experimental comparison includes:
 
 ```text
 DTA_THESIS/
+├── README.md
+│
 ├── data/
 │   ├── aapd/
 │   │   ├── aapd.zip
 │   │   ├── mlb.joblib
 │   │   ├── label_descriptions/
+│   │   │   ├── aapd_label_descriptions_prompt_friendly.json
+│   │   │   ├── acm.txt
+│   │   │   ├── arxiv_label_descriptions.xlsx
+│   │   │   └── arxiv_label_descriptions_expanded.json
 │   │   └── retrieval/
+│   │       ├── aapd_test_gold_labels.json
+│   │       ├── aapd_test_top_k_llm_input_data.jsonl
+│   │       ├── aapd_validation_gold_labels.json
+│   │       ├── aapd_validation_greedy_llm_input_data.jsonl
+│   │       └── aapd_validation_top_k_llm_input_data.jsonl
 │   │
 │   └── scotbess/
-│       ├── SCOTBESS_FULL_ANNOTATED_TERRA_LOW_SPLIT.csv
+│       ├── SCOTBESS_DATASET.csv
+│       ├── SCOTBESS_labels_definitions.xlsx
 │       ├── scotbess_mlb.joblib
 │       └── retrieval/
+│           ├── scotbess_test_gold_labels.json
+│           ├── scotbess_test_top_k_llm_input_data.jsonl
+│           ├── scotbess_validation_gold_labels.json
+│           └── scotbess_validation_top_k_llm_input_data.jsonl
 │
 ├── data_preparation/
 │   ├── aapd/
@@ -50,41 +66,64 @@ DTA_THESIS/
 │       ├── 05_masking/
 │       ├── 06_topic_exploration/
 │       ├── 07_annotation/
+│       │   └── results/
 │       ├── 08_data_splitting/
 │       └── SCOTBESS_embeddings_topk.ipynb
 │
 └── experiments/
     ├── aapd/
     │   ├── SVC/
+    │   │
     │   ├── LLMs/
     │   │   ├── LLAMA/
     │   │   ├── QWEN/
     │   │   └── retrieval_size_selection/
+    │   │
     │   ├── FFT/
     │   │   ├── DistilBERT/
     │   │   └── ModernBERT/
+    │   │
     │   ├── PEFT/
-    │   │   ├── LoRA/
     │   │   ├── BitFit/
+    │   │   │   └── DistilBERT/
+    │   │   ├── LoRA/
+    │   │   │   ├── DistilBERT/
+    │   │   │   └── ModernBERT/
     │   │   └── adapters/
     │   │       ├── Houlsby/
+    │   │       │   ├── DistilBERT/
+    │   │       │   └── ModernBERT/
     │   │       └── Pfeiffer/
+    │   │           ├── DistilBERT/
+    │   │           └── ModernBERT/
+    │   │
     │   └── learning_curve/
     │
     └── scotbess/
         ├── SVC/
+        │
         ├── LLMs/
         │   ├── LLAMA/
         │   └── QWEN/
+        │
         ├── FFT/
         │   ├── DistilBERT/
         │   └── ModernBERT/
+        │
         ├── PEFT/
-        │   ├── LoRA/
         │   ├── BitFit/
+        │   │   └── DistilBERT/
+        │   ├── LoRA/
+        │   │   ├── DistilBERT/
+        │   │   └── ModernBERT/
         │   └── adapters/
         │       ├── Houlsby/
+        │       │   ├── DistilBERT/
+        │       │   └── ModernBERT/
         │       └── Pfeiffer/
+        │           ├── DistilBERT/
+        │           └── ModernBERT/
+        │
         └── learning_curve/
 ```
 
